@@ -1,0 +1,39 @@
+{
+  "name": "efktr-body",
+  "description": "Simple body visualization tool",
+  "version": "0.0.1",
+  "homepage": "https://github.com/efktr/body",
+  "author": {
+    "name": "Christian Dallago",
+    "email": "code@dallago.us"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/efktr/body.git"
+  },
+  "bugs": {
+    "url": "https://github.com/efktr/body/issues"
+  },
+  "license": "Apache-2.0",
+  "main": "build/efktr-body.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --progress --colors --watch",
+    "docs": "mr-doc -s lib/ -o docs/ -n 'efktr/body'",
+    "prepublish": "webpack"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "watchify": "latest",
+    "webpack": "latest",
+    "mr-doc": "latest"
+  },
+  "keywords": [
+    "biojs",
+    "visualization",
+    "js",
+    "bioinformatics",
+    "body"
+  ]
+}
