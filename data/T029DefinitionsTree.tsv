@@ -1,0 +1,2256 @@
+C0000726	Abdomen
+C0004454	Axilla
+C0004600	Back
+C0005898	Body Regions
+C0006497	Buttocks
+C0007144	Cardia of stomach
+C0007966	Cheek structure
+C0008114	Chin
+C0009191	Coccygeal Region
+C0013769	Elbow
+C0015450	Face
+C0016129	Fingers
+C0016539	Forefoot, Human
+C0016540	Forehead
+C0016555	Forelimb
+C0016823	Structure of fundus of eye
+C0018246	Inguinal region
+C0018283	Epiphysial cartilage
+C0018670	Head
+C0018870	Heels
+C0020629	hypopharynx
+C0020654	Hypothalamic Area, Lateral
+C0021445	Inguinal canal structure
+C0023216	Lower Extremity
+C0024090	Lumbar Region
+C0024094	Lumbosacral Region
+C0025066	Mediastinum
+C0025474	Mesentery
+C0025590	Region of metatarsal
+C0026607	Motor Cortex
+C0026638	Sublingual Region
+C0027530	Neck
+C0031066	Anogenital region
+C0036033	Sacral Region
+C0036035	Sacrococcygeal Region
+C0036609	Structure of pituitary fossa
+C0037004	Shoulder
+C0037262	SKI Anatomical site notation for tumour staging
+C0038446	Area striata structure
+C0039866	Thigh structure
+C0040429	Apex of tooth
+C0042591	Vessel Positions
+C0043262	Wrist
+C0149539	SKULL AND CONTENTS
+C0149543	Base of skull structure
+C0149557	COMMON CAROTID ARTERY BIFURCATION, INTERNAL CAROTID ARTERY
+C0149558	COMMON CAROTID ARTERY BIFURCATION
+C0149568	MIDDLE CEREBRAL BIFURCATION OR TRIFURCATION
+C0152349	Subthalamic structure
+C0152412	Structure of glossopharyngeal nucleus
+C0175194	Presubiculum
+C0175215	anterior amygdalar area
+C0175318	dorsal hypothalamic area
+C0175354	Pretectal region
+C0205054	Hepatic
+C0205097	Caudal
+C0221328	Nasolabial sulcus
+C0221914	Structure of cleavage lines of skin
+C0221915	Structure of tension lines of skin
+C0221942	Suture line of skin
+C0221989	Structure of free edge of nail
+C0221993	Structure of proximal nail fold
+C0222000	Structure of lateral nail fold
+C0222072	Skin region
+C0222179	Gluteal sulcus structure
+C0222596	Upper inner quadrant of breast
+C0222597	Lower inner quadrant of breast
+C0222598	Upper outer quadrant of breast
+C0222599	Lower outer quadrant of breast
+C0222679	Structure of articular surface of bone
+C0222700	Structure of inferior border of parietal bone
+C0222714	Structure of styloid process of temporal bone
+C0222719	Structure of internal occipital protuberance
+C0222720	Structure of lateral part of occipital bone
+C0222723	Structure of external occipital protuberance
+C0222738	Structure of infraorbital margin of maxilla
+C0222764	Structure of anterior surface of manubrium
+C0222765	Structure of posterior surface of manubrium
+C0222766	Superior border of manubrium
+C0222767	Structure of inferior border of manubrium
+C0222768	Structure of lateral border of manubrium
+C0222769	Jugular notch of sternum
+C0222770	Structure of clavicular notch of sternum
+C0222773	Structure of anterior surface of body of sternum
+C0222774	Structure of posterior surface of body of sternum
+C0222775	Structure of lateral border of body of sternum
+C0222776	Structure of right lateral border of body of sternum
+C0222777	Structure of left lateral border of body of sternum
+C0222809	Tubercle of rib structure
+C0222812	Structure of angle of rib
+C0222823	Tubercle of first rib structure
+C0222837	Tubercle of second rib structure
+C0222857	Structure of upper border of third rib
+C0222858	Structure of under border of third rib
+C0222859	Structure of outer surface of third rib
+C0222860	Structure of inner surface of third rib
+C0222865	Tubercle of fourth rib structure
+C0222871	Structure of upper border of fourth rib
+C0222872	Structure of under border of fourth rib
+C0222873	Structure of outer surface of fourth rib
+C0222874	Structure of inner surface of fourth rib
+C0222879	Tubercle of fifth rib structure
+C0222882	Structure of angle of fifth rib
+C0222885	Structure of upper border of fifth rib
+C0222886	Structure of under border of fifth rib
+C0222887	Structure of outer surface of fifth rib
+C0222888	Structure of inner surface of fifth rib
+C0222893	Tubercle of sixth rib structure
+C0222899	Structure of upper border of sixth rib
+C0222900	Structure of under border of sixth rib
+C0222901	Structure of outer surface of sixth rib
+C0222902	Structure of inner surface of sixth rib
+C0222907	Tubercle of seventh rib structure
+C0222913	Structure of upper border of seventh rib
+C0222914	Structure of under border of seventh rib
+C0222915	Structure of outer surface of seventh rib
+C0222916	Structure of inner surface of seventh rib
+C0222921	Tubercle of eighth rib structure
+C0222927	Structure of upper border of eighth rib
+C0222928	Structure of under border of eighth rib
+C0222929	Structure of outer surface of eighth rib
+C0222930	Structure of inner surface of eighth rib
+C0222935	Tubercle of ninth rib structure
+C0222941	Structure of upper border of ninth rib
+C0222942	Structure of under border of ninth rib
+C0222943	Structure of outer surface of ninth rib
+C0222944	Structure of inner surface of ninth rib
+C0222949	Tubercle of tenth rib structure
+C0222955	Structure of upper border of tenth rib
+C0222956	Structure of under border of tenth rib
+C0222957	Structure of outer surface of tenth rib
+C0222958	Structure of inner surface of tenth rib
+C0222969	Structure of upper border of eleventh rib
+C0222970	Structure of under border of eleventh rib
+C0222971	Structure of outer surface of eleventh rib
+C0222972	Structure of inner surface of eleventh rib
+C0222983	Structure of upper border of twelfth rib
+C0222984	Structure of under border of twelfth rib
+C0222985	Structure of outer surface of twelfth rib
+C0222986	Structure of inner surface of twelfth rib
+C0223109	Structure of superior articular facet of atlas
+C0223110	Structure of inferior articular facet of atlas
+C0223114	Structure of superior articular process of axis
+C0223612	Structure of superior articular facet of sacrum
+C0223614	Structure of pelvic aspect of sacrum
+C0223627	Structure of medial border of scapula
+C0223631	Structure of dorsal aspect of scapula
+C0223641	Structure of sternal end of clavicle
+C0223643	Structure of acromial end of clavicle
+C0223662	Structure of symphysial surface of pubis
+C0223665	Structure of iliopubic eminence
+C0223674	Structure of linea terminalis of pelvis
+C0223675	Structure of acetabular fossa
+C0223677	Structure of lunar surface of acetabulum
+C0223678	Structure of articular surface of acetabulum
+C0223679	Structure of roof of acetabulum
+C0223702	Structure of carpal articular surface of radius
+C0223703	Structure of proximal epiphysis of radius
+C0223704	Structure of distal epiphysis of radius
+C0223718	Structure of articular circumference of ulna
+C0223756	Structure of articular surface, second metacarpal, of first metacarpal bone
+C0223762	Structure of articular surface, first metacarpal, of second metacarpal bone
+C0223763	Structure of articular surface, trapezoid, of second metacarpal bone
+C0223764	Structure of articular surface, third metacarpal, of second metacarpal bone
+C0223771	Structure of articular surface, capitate, of third metacarpal bone
+C0223778	Structure of articular surface, third metacarpal, of fourth metacarpal bone
+C0223779	Structure of articular surface, capitate, of fourth metacarpal bone
+C0223780	Structure of articular surface, hamate, of fourth metacarpal bone
+C0223787	Structure of articular surface, fourth metacarpal, of fifth metacarpal bone
+C0223788	Structure of articular surface, hamate, of fifth metacarpal bone
+C0223807	Structure of articular surface, metacarpal, of phalanx of hand
+C0223808	Structure of articular surface, interphalangeal, of phalanx of hand
+C0223882	Structure of midcervical section of neck of femur
+C0223887	Structure of apex of patella
+C0223888	Medial articular facet of patella
+C0223889	Lateral articular facet of patella
+C0223890	Base of patella
+C0223900	Structure of malleolar articular surface of tibia
+C0223929	Structure of cuboidal articular surface of calcaneus
+C0223934	Structure of posterior calcaneal articular surface of talus
+C0223935	Structure of middle calcaneal articular surface of talus
+C0223937	Structure of navicular calcaneal articular surface of talus
+C0223946	Structure of navicular facet of cuboid bone
+C0223950	Structure of talar facet of navicular bone of foot
+C0223971	Second metatarsal facet of intermediate cuneiform bone
+C0224033	Structure of articular surface, metatarsal, of phalanx of foot
+C0224034	Structure of articular surface, interphalangeal, of phalanx of foot
+C0224042	Structure of articular surface, metatarsal, of phalanx of great toe
+C0224043	Structure of articular surface, interphalangeal, of phalanx of great toe
+C0224052	Structure of articular surface, metatarsal, of phalanx of second toe
+C0224053	Structure of articular surface, interphalangeal, of phalanx of second toe
+C0224062	Structure of articular surface, metatarsal, of phalanx of third toe
+C0224063	Structure of articular surface, interphalangeal, of phalanx of third toe
+C0224072	Structure of articular surface, metatarsal, of phalanx of fourth toe
+C0224073	Structure of articular surface, interphalangeal, of phalanx of fourth toe
+C0224082	Structure of articular surface, metatarsal, of phalanx of fifth toe
+C0224083	Structure of articular surface, interphalangeal, of phalanx of fifth toe
+C0224519	Synchondrosis structure
+C0224713	Structure of capsule of ankle joint
+C0225393	Respiratory region of nose
+C0225394	Olfactory region of nose
+C0225400	Structure of superior nasal meatus
+C0225407	Structure of roof of nose
+C0225408	Structure of dorsum of nose
+C0225409	Tip of nose
+C0225428	Structure of membranous part of nasal septum
+C0225430	Structure of posterior margin of nasal septum
+C0225484	Posterior wall of nasopharynx
+C0225486	lateral wall of nasopharynx
+C0225492	Superior wall of nasopharynx
+C0225504	Structure of salpingopharyngeal fold
+C0225507	Structure of anterior epiglottis
+C0225508	Structure of posterior epiglottis
+C0225516	Postcricoid region
+C0225545	Structure of crista arcuata of arytenoid cartilage
+C0225547	Structure of fovea oblonga of arytenoid cartilage
+C0225548	Structure of fovea triangularis of arytenoid cartilage
+C0225559	Laryngeal inlet
+C0225567	Structure of hypopharyngeal aspect of aryepiglottic fold
+C0225593	Bifurcation of trachea
+C0225684	Structure of vertebral part of medial surface of lung
+C0225685	Structure of medial surface of lung
+C0225686	Structure of cardiac impression of medial surface of lung
+C0225688	Structure of interlobar surfaces of lung
+C0225689	Structure of anterior margin of lung
+C0225690	Structure of inferior margin of lung
+C0225701	Structure of hilum of lung
+C0225702	Structure of perihilar region of lung
+C0225703	Structure of apex of lung
+C0225705	Bronchopulmonary segment
+C0225707	Structure of apex of right lung
+C0225708	Structure of base of right lung
+C0225709	Right pulmonary hilum
+C0225710	Structure of root of right lung
+C0225714	Structure of perihilar region of right lung
+C0225717	Right posterior bronchopulmonary segment
+C0225718	Anterior segment of right upper lobe
+C0225731	Structure of apex of left lung
+C0225732	Structure of base of left lung
+C0225733	Left pulmonary hilum
+C0225734	Structure of root of left lung
+C0225738	Structure of perihilar region of left lung
+C0225808	Right side of heart
+C0225809	Left side of heart
+C0225810	Structure of base of heart
+C0225814	Surface of heart
+C0225815	Structure of sternocostal surface of heart
+C0225816	Structure of diaphragmatic surface of heart
+C0225817	Left surface of heart
+C0225818	Structure of right margin of heart
+C0225819	Structure of left margin of heart
+C0225858	Structure of intervenous tubercle of right atrium
+C0225859	Structure of supratricuspid valve area
+C0225867	Structure of supramitral valve area
+C0225884	Structure of crista supraventricularis
+C0225914	Subvalvular aortic region
+C0226020	Structure of preductal region of aortic arch
+C0226021	Structure of postductal region of aortic arch
+C0226022	Structure of juxtaductal region of aortic arch
+C0226052	Suprapulmonic valve area
+C0226898	Structure of oral cavity proper
+C0226903	Structure of raphe of soft palate
+C0226905	Structure of nasopharyngeal surface of soft palate
+C0226914	Anterior floor of mouth
+C0226915	lateral floor of mouth
+C0226920	Structure of retromolar area of mouth
+C0226946	Apex of tongue
+C0226953	Structure of dorsum of tip of tongue
+C0226954	Dorsum of anterior tongue
+C0226957	Ventral surface of tongue
+C0226961	Structure of dorsal surface of base of tongue
+C0226972	Structure of lateral margin of tongue
+C0226988	Structure of mesial surface of tooth
+C0226989	Structure of distal surface of tooth
+C0227000	Structure of contact surface of tooth
+C0227004	Structure of incisal border of tooth
+C0227114	Structure of free surface of gingiva
+C0227151	Structure of lateral pharyngeal wall
+C0227153	Structure of retromaxillary region
+C0227154	Structure of suprahyoid region
+C0227155	Posterior wall of oropharynx
+C0227156	lateral wall of oropharynx
+C0227158	Structure of middle glossoepiglottic fold
+C0227159	Structure of lateral glossoepiglottic fold
+C0227160	Anterior surface of epiglottis
+C0227164	Structure of pharyngeal recess
+C0227166	Structure of fold of laryngeal nerve
+C0227174	Posterior wall of hypopharynx
+C0227175	Structure of junctional region with oropharynx
+C0227187	Upper third of esophagus
+C0227189	Middle third of esophagus
+C0227190	Abdominal part of esophagus
+C0227191	Lower third of esophagus
+C0227201	Structure of area gastrica
+C0227221	Lesser curvature of stomach
+C0227223	Greater curvature of stomach
+C0227278	Structure of mesenteric border of small intestine
+C0227279	Structure of anti-mesenteric border of small intestine
+C0227281	Structure of superior flexure of duodenum
+C0227283	Structure of inferior flexure of duodenum
+C0227303	Structure of ascending portion of duodenum
+C0227314	Structure of mesenteric border of jejunum
+C0227315	Structure of anti-mesenteric border of jejunum
+C0227323	Structure of mesenteric border of ileum
+C0227324	Structure of anti-mesenteric border of ileum
+C0227325	Structure of proximal portion of ileum
+C0227326	Structure of middle portion of ileum
+C0227327	Distal part of ileum
+C0227385	Hepatic flexure of colon
+C0227387	Left colic flexure
+C0227425	Structure of anal intersphincteric groove
+C0227429	Structure of hemorrhoidal zone
+C0227431	Structure of cloacogenic area of rectum
+C0227461	Structure of lateral surface of sublingual gland
+C0227462	Structure of medial surface of sublingual gland
+C0227505	Structure of area nuda hepatis
+C0227507	Structure of groove of ligamentum venosum of liver
+C0227509	Inferior border of liver
+C0227533	Structure of perihepatic region
+C0227536	Structure of omental tubercle of liver
+C0227538	Structure of gastric impression of liver
+C0227539	Structure of duodenal impression of liver
+C0227540	Structure of colic impression of liver
+C0227541	Structure of renal impression of liver
+C0227542	Structure of adrenal impression of liver
+C0227543	Structure of subhepatic region
+C0227581	Structure of pancreatic incisura
+C0227584	Structure of posterior surface of pancreas
+C0227585	Structure of inferior surface of pancreas
+C0227586	Structure of superior margin of pancreas
+C0227587	Structure of anterior margin of pancreas
+C0227588	Structure of inferior margin of pancreas
+C0227589	Structure of tuber omentale of pancreas
+C0227606	Structure of lateral border of kidney
+C0227607	Structure of medial border of kidney
+C0227609	Structure of anterior surface of kidney
+C0227610	Structure of posterior surface of kidney
+C0227640	Structure of radiating portion of cortical lobule of kidney
+C0227641	Structure of convoluting portion of cortical lobule of kidney
+C0227716	Neck of urinary bladder
+C0227762	Posterior commissure of labia majora
+C0227764	Structure of fossa of vaginal vestibule
+C0227789	Structure of vaginal urethral carina
+C0227794	Fornix of vagina
+C0227807	Structure of margin of uterus
+C0227808	Structure of right margin of uterus
+C0227809	Structure of left margin of uterus
+C0227810	Structure of intestinal surface of uterus
+C0227811	Structure of vesical surface of uterus
+C0227867	Medial aspect of ovary
+C0227868	Lateral aspect of ovary
+C0227869	Structure of free margin of ovary
+C0227870	Structure of mesovarian margin of ovary
+C0227899	Structure of parovarian region
+C0227929	Structure of dorsum of penis
+C0227930	Structure of urethral aspect of penis
+C0227931	Radix penis structure
+C0227960	Structure of anterior surface of prostate
+C0227961	Structure of posterior surface of prostate
+C0227962	Structure of inferolateral surface of prostate
+C0227995	Anterior border of testis
+C0227996	Structure of posterior border of testis
+C0228055	Structure of scrotal raphe
+C0228279	Structure of olfactory trigone
+C0228281	Structure of septal area of paraterminal body of rhinencephalon
+C0228282	Parolfactory area structure (body structure)
+C0228283	Structure of anterior parolfactory area
+C0228284	Structure of posterior parolfactory area
+C0228286	Structure of piriform area
+C0228315	Anterior region of thalamus
+C0228364	Structure of fornix of hypothalamus
+C0228374	Caudal area of hypothalamus
+C0228452	Pontine portion, corticospinal tract
+C0228530	Structure of area postrema
+C0229078	Structure of equator of eyeball
+C0229089	Right eye
+C0229092	Structure of posterior pole of eye
+C0229112	Structure of external surface of sclera
+C0229113	Structure of inner surface of sclera
+C0229176	Pupillary margin of iris
+C0229177	Ciliary margin of iris
+C0229178	Structure of anterior surface of iris
+C0229179	Structure of posterior surface of iris
+C0229245	Structure of canthus
+C0229359	Structure of fold of chorda tympani
+C0229363	Structure of fold for incus
+C0229364	Structure of fold for stapes
+C0229373	Structure of anterior mallear fold of tympanic membrane
+C0229374	Structure of posterior mallear fold of tympanic membrane
+C0229518	Structure of superior vestibular area of internal auditory canal
+C0229519	Structure of inferior vestibular area of internal auditory canal
+C0229553	Structure of anterior surface of adrenal gland
+C0229554	Structure of posterior surface of adrenal gland
+C0229556	Structure of superior margin of adrenal gland
+C0229557	Structure of medial margin of adrenal gland
+C0229672	Structure of diaphragmatic surface of spleen
+C0229673	Structure of visceral surface of spleen
+C0229674	Structure of gastric surface of spleen
+C0229675	Structure of renal surface of spleen
+C0229676	Structure of colic surface of spleen
+C0229678	Lower pole of spleen
+C0229679	Structure of superior margin of spleen
+C0229680	Structure of inferior margin of spleen
+C0229692	Structure of perisplenic region
+C0229707	Structure of paracortical area of lymph node
+C0229881	Tonsillar fossa
+C0229968	Structure of multiple topographic sites
+C0229989	Trigger zone
+C0229998	Side of head
+C0230002	Supraorbital area structure
+C0230003	Vertex
+C0230004	Parietal area of head
+C0230005	Occipital region
+C0230006	Suboccipital region
+C0230007	Temporal region
+C0230008	Infratemporal region
+C0230009	Auricular region
+C0230012	Postauricular region structure
+C0230013	Preauricular region structure
+C0230014	Structure of infraauricular region
+C0230025	Right side of face
+C0230026	Left side of face
+C0230028	Oral region
+C0230029	Structure of infraorbital region of face
+C0230030	Zygomatic part of cheek
+C0230032	Infrapalpebral sulcus
+C0230034	Submental region
+C0230037	Structure of center of face
+C0230038	Structure of lateral aspect of face
+C0230042	Structure of fossa of cranial cavity
+C0230043	Structure of supratentorial region of cranial cavity
+C0230046	Structure of infratentorial region of cranial cavity
+C0230049	Structure of tuberculum sellae
+C0230050	Structure of middle clinoid process
+C0230051	Dorsum sellae
+C0230052	Structure of posterior clinoid process
+C0230053	Structure of anterior clinoid process
+C0230054	Structure of suprasellar region
+C0230059	Orbital roof
+C0230060	Structure of inferior wall of orbit
+C0230064	Periorbital region
+C0230065	Structure of retroorbital region
+C0230069	Anterior portion of neck
+C0230070	Submandibular triangle structure
+C0230071	Structure of carotid triangle
+C0230072	Structure of sternocleidomastoid region of neck
+C0230073	Posterior triangle of neck
+C0230074	Right side of neck surface region
+C0230075	Left side of neck surface
+C0230077	Clavicular region
+C0230078	Supraclavicular region of neck
+C0230081	Structure of scalene region of neck
+C0230084	Lateral region of trunk
+C0230091	Anterior axillary line
+C0230092	Posterior axillary line
+C0230094	Lower trunk structure
+C0230095	Right side of trunk
+C0230096	Left side of trunk
+C0230097	Structure of waist (surface region)
+C0230099	Structure of infrascapular region of back
+C0230104	Thoracolumbar part of back
+C0230105	Scapular region of back
+C0230106	Interscapular region
+C0230108	Infraclavicular region structure
+C0230109	Region of breast
+C0230111	Pectoral region structure
+C0230117	Structure of sacroiliac region
+C0230118	Structure of presacral region
+C0230120	Posterior perineum
+C0230121	Intergluteal cleft
+C0230122	Anterior perineum
+C0230126	Structure of thorax, including mediastinum and diaphragm
+C0230127	Right thorax structure
+C0230128	Left thorax structure
+C0230130	Structure of thoracic viscus
+C0230131	Posterior chest wall
+C0230132	Anterior chest wall structure
+C0230134	Structure of precordium
+C0230135	Structure of sternal region
+C0230137	Structure of thoracic inlet
+C0230138	Thoracic outlet
+C0230143	Structure of costal arch
+C0230145	Structure of substernal region
+C0230147	Superior mediastinum
+C0230148	Anterior mediastinum
+C0230149	Middle mediastinum
+C0230150	Posterior mediastinum
+C0230151	Costophrenic angle
+C0230152	Lumbar part of diaphragm
+C0230155	Structure of costal part of diaphragm
+C0230156	Structure of sternal part of diaphragm
+C0230165	Upper abdomen (surface region)
+C0230166	Lower abdomen
+C0230167	Structure of mid abdomen (surface region)
+C0230168	Abdominal Cavity
+C0230171	Flank (surface region)
+C0230177	Structure of right upper quadrant of abdomen
+C0230178	Structure of right lower quadrant of abdomen
+C0230179	Structure of left upper quadrant of abdomen
+C0230180	Structure of left lower quadrant of abdomen
+C0230181	Structure of upper abdominal quadrant
+C0230183	Structure of inframammary region
+C0230184	Structure of lower abdominal quadrant
+C0230185	Epigastrium
+C0230186	Hypochondriac region
+C0230189	Pubic region
+C0230193	Anterior abdominal wall
+C0230194	Posterior abdominal wall
+C0230219	Structure of gastropancreatic folds
+C0230221	Structure of superior duodenal fold
+C0230222	Structure of inferior duodenal fold
+C0230226	Structure of paraduodenal fold
+C0230235	Median umbilical fold
+C0230236	Medial umbilical fold
+C0230237	Structure of lateral umbilical fold
+C0230249	Structure of root of mesentery
+C0230264	Structure of ileocecal fold
+C0230266	Structure of vascular fold of cecum
+C0230276	Greater pelvis
+C0230290	Structure of perirectal region
+C0230291	Structure of retrovaginal region
+C0230318	Right inguinal region
+C0230319	Inguinal triangle
+C0230321	Left iliac region
+C0230324	Structure of lateral inguinal fossa
+C0230325	Structure of femoral fossa
+C0230333	Anterior axillary fold
+C0230334	Posterior axillary fold
+C0230337	Structure of right axillary region
+C0230338	Structure of left axillary region
+C0230339	Deltoid region
+C0230350	Structure of posterior cubital region
+C0230351	Structure of lateral cubital region
+C0230352	Structure of medial cubital region
+C0230353	Right elbow region structure
+C0230354	Left elbow region structure
+C0230355	Antecubital region
+C0230359	Structure of medial margin of forearm
+C0230360	Structure of right forearm
+C0230361	Structure of left forearm
+C0230363	Structure of anterior carpal region
+C0230364	Structure of posterior carpal region
+C0230372	Back of hand
+C0230373	Palm
+C0230374	Thenar eminence
+C0230375	Hypothenar eminence
+C0230417	Femoral region
+C0230418	Structure of right femoral region
+C0230419	Structure of left femoral region
+C0230423	Structure of medial surface of thigh
+C0230427	Structure of mid thigh region
+C0230428	Structure of above knee region
+C0230433	Structure of below knee region
+C0230435	Popliteal region
+C0230444	Shin
+C0230445	Structure of calf of leg
+C0230447	Structure of right ankle
+C0230449	Malleolar region
+C0230450	Lateral malleolar region
+C0230451	Medial malleolar region
+C0230452	Structure of bimalleolar area
+C0230453	Structure of trimalleolar area
+C0230459	Hindfoot (body structure)
+C0230463	Sole of Foot
+C0230466	Structure of ball of foot
+C0230467	Arch of foot
+C0230468	Longitudinal arch of foot
+C0230470	Structure of lateral arch of foot
+C0230471	Structure of transverse arch of foot
+C0230476	Structure of dorsal surface of toe
+C0230481	Structure of dorsal surface of great toe
+C0230482	Plantar surface of great toe
+C0230483	Lateral surface of great toe
+C0230484	Medial surface of great toe
+C0230487	Structure of dorsal surface of second toe
+C0230490	Medial surface of second toe
+C0230492	Structure of dorsal surface of third toe
+C0230495	Medial surface of third toe
+C0230497	Structure of dorsal surface of fourth toe
+C0230500	Medial surface of fourth toe
+C0230502	Structure of dorsal surface of fifth toe
+C0230505	Medial surface of fifth toe
+C0230993	Fetal implantation site
+C0230994	Junctional zone of implantation
+C0262331	striae medullares
+C0262358	Vestibular area (body structure)
+C0277975	McBurney's point
+C0278437	Border of tongue
+C0282082	Gluteal Region
+C0348077	Tumor staging site MAR
+C0348086	Spleen acupuncture point SP3
+C0392338	Cutaneous Receptive Fields
+C0442031	Pericardial body location
+C0442034	peritoneal
+C0442036	Plantar - anatomical location
+C0442158	Perianal
+C0443181	Cloacogenic zone
+C0444582	Palpebral margin
+C0444675	Shank
+C0446421	Level of the third thoracic vertebra
+C0446447	Entire body surface region
+C0446455	Front of neck
+C0446457	Side of neck (surface region)
+C0446459	Anterior triangle of neck
+C0446464	Entire scapular region
+C0446503	Surface region of pelvis
+C0446514	Surface region of shoulder
+C0446516	Arm
+C0446523	Antecubital Fossa
+C0446524	Surface region of forearm
+C0446534	Flexor aspect of thumb
+C0446549	Dorsal surface of ring finger
+C0446560	Lateral aspect of thigh
+C0446561	Medial aspect of thigh
+C0446562	Anterior aspect of thigh
+C0446563	Posterior part of thigh
+C0446573	Lateral aspect of leg
+C0446574	Medial aspect of leg
+C0446576	Surface of ankle
+C0446581	Surface region of foot
+C0446587	Entire medial surface of great toe
+C0446614	Entire region of retroperitoneal space
+C0446619	Entire inferior mediastinum
+C0446939	Entire lateral segment of right middle lobe of lung
+C0446942	Entire apical segment of right lower lobe of lung
+C0446943	Entire anterior basal segment of right lower lobe of lung
+C0446944	Entire medial basal segment of right lower lobe of lung
+C0446946	Entire posterior basal segment of right lower lobe of lung
+C0446948	Entire apicoposterior segment of upper division of left upper lobe of lung
+C0446950	Entire anterior segment of upper division of left upper lobe of lung
+C0446955	Entire superior segment of left lower lobe of lung
+C0446956	Entire anterior basal segment of left lower lobe of lung
+C0446957	Entire posterior basal segment of left lower lobe of lung
+C0446982	Entire subvalvular aortic region
+C0447210	Entire maxillary teeth
+C0447211	Entire mandibular teeth
+C0447301	Tooth surface
+C0447303	Occlusal surface of tooth
+C0447304	Entire incisal border of tooth
+C0447309	Entire vestibular surface of tooth
+C0447415	Entire lower alveolar ridge
+C0447442	Entire free surface of gingiva
+C0447510	Structure of pyloric portion of stomach
+C0447520	Region of large intestine
+C0447529	Pectinate line of anal canal
+C0447583	lateral wall of bladder
+C0447586	Trigone of bladder
+C0447606	Entire right side of vulva
+C0447607	Entire left side of vulva
+C0448009	Entire symphysis of mandible
+C0448038	Entire proximal shaft of humerus
+C0448039	Entire midshaft of humerus
+C0448041	Entire supracondylar part of humerus
+C0448179	Lip of acetabulum
+C0448214	Entire upper end of tibia
+C0448218	Entire lower end of tibia
+C0448226	Entire lower end of fibula
+C0448784	Entire vertex region of scalp (body structure)
+C0449197	PUL anatomical site notation for tumour staging
+C0449198	HEP tumour staging notation
+C0449200	Anatomical site notation for tumour staging PLE
+C0449201	PER tumor staging notation
+C0449203	PEL tumor staging notation
+C0449204	HEA tumor staging notation
+C0449205	LIM tumor staging site
+C0449206	OSS tumor staging notations
+C0449207	ADR body location
+C0449208	THO tumor staging notation
+C0449209	ORB tumour staging notation
+C0449210	OTH tumor staging notation
+C0450465	Lung acupuncture point LU1
+C0450477	Large intestine acupuncture LI1
+C0450478	Large intestine acupuncture point LI2
+C0450479	Large intestine acupuncture point LI3
+C0450480	LI4 Acupuncture Point
+C0450481	Large intestine acupuncture point LI5
+C0450498	Stomach acupuncture point ST1
+C0450499	Stomach acupuncture point ST2
+C0450500	Stomach acupuncture point ST3
+C0450501	Stomach acupuncture point ST4
+C0450502	ST5 Acupuncture Point
+C0450503	ST6 Acupuncture Point
+C0450504	ST7 Stomach acupuncture point
+C0450505	Stomach acupuncture point ST8
+C0450508	Stomach acupuncture point ST11
+C0450509	Stomach acupuncture point ST12
+C0450510	Stomach acupuncture point ST13
+C0450511	ST14 (body structure)
+C0450512	Stomach acupuncture point ST15
+C0450513	ST16 Stomach acupuncture point
+C0450514	Stomach acupuncture point ST17
+C0450515	ST18 - stomach acupuncture point
+C0450516	Stomach acupuncture point ST19
+C0450517	ST20 - stomach acupuncture point
+C0450519	ST22 Stomach Acupuncture Point
+C0450535	ST38 (body structure)
+C0450544	Spleen acupuncture point SP1
+C0450545	Spleen acupuncture point SP2
+C0450546	Spleen acupuncture point SP4
+C0450547	Spleen acupuncture point SP5
+C0450548	Spleen acupuncture point SP6
+C0450549	SP7 (accupuncture point)
+C0450550	Spleen acupuncture point SP8
+C0450551	SP9 - spleen acupuncture point
+C0450559	Spleen acupuncture point SP17
+C0450596	BL2 Bladder acupuncture point
+C0450605	BL11 Bladder Acupuncture Point
+C0450616	BL22 bladder acupuncture point
+C0450628	BL34 (body structure)
+C0450689	Pericardium acupuncture point PC1
+C0450690	Pericardium acupuncture point PC2
+C0450691	PC3 Pericardium acupuncture point
+C0450692	PC4 Pericardium acupuncture point
+C0450693	Pericardium acupuncture point PC5
+C0450694	Pericardium acupuncture point PC6
+C0450695	Pericardium acupuncture point PC7
+C0450696	Pericardium acupuncture point PC8
+C0450697	Pericardium acupuncture point PC9
+C0450698	Triple energizer acupuncture point TE1
+C0450699	Triple energizer acupuncture point TE2
+C0450700	Triple energizer acupuncture point TE3
+C0450723	Gallbladder acupuncture point GB2
+C0450724	Gallbladder acupuncture point 3
+C0450726	Gallbladder acupuncture points GB5
+C0450734	Gallbladder acupuncture points GB14
+C0450768	Liver acupuncture point LR3
+C0450773	Liver acupuncture point LR8
+C0450776	Liver acupuncture point LR11
+C0450811	CV2 (body structure)
+C0450813	CV4 Acupuncture Point
+C0456956	Structure of low right atrium
+C0457847	Segment of thoracic spinal cord
+C0457848	Lumbar segment of spinal cord
+C0457906	Surface of knee
+C0457907	Structure of surface region of ankle
+C0458328	periamygdaloid area
+C0458343	Trigger point
+C0458345	Structure of parasternal region
+C0458359	Premotor area
+C0458361	somatosensory areas
+C0458396	Cerebellar lobe
+C0458398	Entire pole of kidney
+C0458399	Entire surface of kidney
+C0458403	Entire layer of kidney
+C0458414	Entire abdominal portion of ureter
+C0458440	Entire plica interureterica
+C0458544	Entire base of arytenoid cartilage
+C0458546	Entire apex of arytenoid cartilage
+C0458561	External nose structure
+C0458618	Entire anterior border of testis
+C0458619	Entire medial aspect of testis
+C0458620	Entire lateral aspect of testis
+C0458628	Triangular fossa of antihelix
+C0458629	Scaphoid fossa
+C0458638	Entire wall of vas deferens
+C0458680	Entire wall of seminal vesicle
+C0458697	Structure of internal glandular zone of prostate
+C0458872	Entire wall of Fallopian tube
+C0458878	Entire lateral aspect of ovary
+C0458879	Entire medial aspect of ovary
+C0458892	Male perineal structure
+C0458923	Superior surface of liver
+C0458924	Entire anterior portion of diaphragmatic aspect of liver
+C0458925	Posterior surface of liver
+C0458926	Entire right portion of diaphragmatic aspect of liver
+C0458927	Inferior surface of liver
+C0458928	Diaphragmatic surface of liver
+C0458930	Border of liver
+C0458947	Female perineal structure
+C0459086	Entire cochlear promontory of tympanic cavity
+C0459094	Entire proximal shaft of tibia
+C0459549	Entire segment of eyeball
+C0459551	Optic axis
+C0459566	Entire bony orbit
+C0459567	Entire supraorbital margin
+C0459570	Inferior orbital margin
+C0460004	Head and neck structure
+C0460005	Trunk structure
+C0460009	Back structure, including back of neck
+C0460025	Upper jaw region
+C0460026	Lower jaw region
+C0475424	Entire cervical esophagus
+C0475425	Entire thoracic esophagus
+C0502383	Interlobar bronchus
+C0502462	Crest of head of rib (region)
+C0502472	Structure of upper border of rib
+C0503895	Anatomical conduit
+C0504592	Entire body wall
+C0505385	Level of the fourth thoracic vertebra
+C0521367	Oropharyngeal
+C0521401	Leptomeningeal
+C0521408	Structure of transentorhinal zone
+C0521443	Structure of lateral abdominal wall
+C0521449	Cytoplasmic
+C0521453	Decidual
+C0521454	Chorionic
+C0521458	Ectodermal
+C0524466	Intracranial
+C0524467	Structure of costovertebral angle of twelfth rib
+C0524468	Structure of right shoulder region
+C0524469	Structure of left shoulder region
+C0524470	Right hip region structure
+C0524471	Structure of left hip
+C0542561	BL19 Bladder Acupuncture Point
+C0545525	Upper inner quadrant of female breast
+C0545526	Lower inner quadrant of female breast
+C0545527	Upper outer quadrant of female breast
+C0545528	Lower outer quadrant of female breast
+C0549224	Frontal region
+C0553534	Cardiopulmonary
+C0556956	Cervical region (surface region of back)
+C0558302	Sublingual location
+C0580756	Anterior surface of cornea
+C0581490	Oral frenum
+C0581758	Nuchal region
+C0582240	Border of rib
+C0582492	Entire proximal end of ulna
+C0584227	Ethmoid sinus uncinate process
+C0589384	Transvesical Location
+C0589385	Transgastric Location
+C0589395	Transorbital Location
+C0589466	Transsplenic Location
+C0596790	interstitial
+C0598032	septal area
+C0599720	Brodmann area
+C0682660	gustatory area of cortex
+C0687007	Structure of under border of rib
+C0687008	Structure of outer surface of rib
+C0687009	Structure of inner surface of rib
+C0687010	Structure of upper border of first rib
+C0687011	Structure of under border of first rib
+C0687012	Structure of outer surface of first rib
+C0687013	Structure of inner surface of first rib
+C0687014	Structure of upper border of second rib
+C0687015	Structure of under border of second rib
+C0687016	Structure of outer surface of second rib
+C0687017	Structure of inner surface of second rib
+C0687022	Structure of articular surface, phalanges, of second metacarpal bone
+C0687029	Structure of laryngeal aspect of aryepiglottic fold
+C0687030	Structure of hypopharyngeal aspect of interarytenoid fold
+C0687031	Structure of laryngeal aspect of interarytenoid fold
+C0687082	Proboscis
+C0694598	CA1 field
+C0700042	Orbital region
+C0700375	Perianal surface region
+C0728992	Structure of abdominal viscus
+C0729841	Posterior meatal wall of external auditory canal
+C0730133	Entire base of patella
+C0730134	Entire subcapital section of head of femur
+C0730135	Entire base of neck of femur
+C0733975	Segment of large intestine
+C0738563	Entire subregion of abdomen
+C0738779	Structure of peritoneal fold
+C0739153	Ovarian fossa (region)
+C0816451	Surface of subscapular fossa
+C0816455	Glenoid cavity region of right scapula
+C0816456	Glenoid cavity region of left scapula
+C0816700	Anterior surface of shaft of ulna
+C0816701	Posterior surface of shaft of ulna
+C0816703	Interosseous border of diaphysis of ulna
+C0816704	Anterior border of diaphysis of ulna
+C0816705	Posterior border of diaphysis of ulna
+C0816951	Inguinal part of abdomen
+C0817096	Chest
+C0817662	Palm of hand
+C0817743	Entire subregion of trunk
+C0817911	Surface of buttock
+C0818078	Plantar surface
+C0826683	Articular surface of medial cuneiform bone for second metatarsal bone
+C0826690	Navicular surface of medial cuneiform bone
+C0826698	First metatarsal surface of medial cuneiform bone
+C0826768	Navicular surface of intermediate cuneiform bone
+C0826867	Articular surface of lateral cuneiform bone for second metatarsal bone
+C0826879	Navicular surface of lateral cuneiform bone
+C0826889	Articular surface of lateral cuneiform bone for fourth metatarsal bone
+C0826942	Lateral cuneiform facet of right cuboid bone
+C0826943	Articular surface of left cuboid bone for lateral cuneiform bone
+C0826951	Articular surface of cuboid bone for fourth metatarsal bone
+C0826954	Articular surface of cuboid bone for fifth metatarsal bone
+C0827124	Acromial part of right shoulder
+C0827125	Acromial part of left shoulder
+C0830890	Interosseous border of ulna
+C0834632	Malleolar groove of fibula
+C0834633	Malleolar fossa of fibula
+C0920882	Region of neck (body structure)
+C0921044	Frontal part of head
+C0923870	Anatomical location
+C0923872	Anatomical attachment
+C0925111	Myocardium of atrium proper
+C0925588	Maxillary surface of greater wing of sphenoid
+C0926407	Lambda (Sutural junction)
+C0926703	Pterion
+C0927233	Segment of brain
+C0930456	Right nasal vestibule
+C0930457	Left nasal vestibule
+C0930569	Lower vermilion
+C0931849	Segment of palm
+C0931905	Submental triangle structure
+C0934419	Bregma
+C0934420	Cephalometric nasion point
+C0934569	Hemithoracic structure
+C0935456	Temple
+C0935598	Sagittal plane
+C0935623	anatomical pole
+C1176460	Entire ankle surface region
+C1179687	T1 innervation
+C1179688	T2 innervation
+C1179689	T5 innervation
+C1179690	T6 innervation
+C1179692	T8 innervation
+C1179693	T9 innervation
+C1179694	T10 - Thoracic segmental innervation
+C1179695	T11 innervation
+C1179696	T12 Thoracic segmental innervation
+C1179698	L1 innervation
+C1179699	L2 innervation
+C1179700	L3 innervation
+C1179701	L4 Segmental Innervation
+C1179702	L5 Segmental Innervation
+C1179704	S1 innervation
+C1179705	S2 innervation
+C1179706	S3 (sacral segmental innervation)
+C1179707	S4 innervation
+C1179708	S5 innervation
+C1183739	Right atrium proper
+C1183952	Inner cortex of kidney
+C1184175	Right cheek proper
+C1184176	Left cheek proper
+C1184350	Acromial part of right pectoral girdle
+C1184351	Acromial part of left pectoral girdle
+C1184526	Anterior border of ulna
+C1184527	Posterior border of ulna
+C1184553	Margo medialis
+C1184554	Margo inferior
+C1184569	Anterior surface of ulna
+C1184570	Posterior surface of ulna
+C1184682	Maxillary surface of sphenoid
+C1184888	Basion
+C1184889	Opisthion
+C1184914	Mandibular torus
+C1185729	Cusp (anatomic)
+C1185788	Neck of glans
+C1185789	Septum of glans
+C1186019	Vascular layer of testis
+C1235676	Tuber Subdivision of Bone
+C1253941	Surface of tongue
+C1254044	Entire surface region of knee
+C1261097	Structure of posterior extremity of spleen
+C1261192	Ankle region
+C1261193	Inferior mediastinum
+C1266932	Entire right lateral border of body of sternum
+C1266933	Entire left lateral border of body of sternum
+C1266943	Entire articular part of tubercle of first rib
+C1266944	Entire non-articular part of tubercle of first rib
+C1266945	Entire angle of first rib
+C1266948	Entire upper border of first rib
+C1266949	Entire under border of first rib
+C1266950	Entire outer surface of first rib
+C1266951	Entire inner surface of first rib
+C1266952	Entire crest of head of second rib
+C1266954	Entire articular part of tubercle of second rib
+C1266955	Entire non-articular part of tubercle of second rib
+C1266956	Entire angle of second rib
+C1266959	Entire upper border of second rib
+C1266960	Entire under border of second rib
+C1266961	Entire outer surface of second rib
+C1266962	Entire inner surface of second rib
+C1266963	Entire crest of head of third rib
+C1266965	Entire angle of third rib
+C1266968	Entire upper border of third rib
+C1266969	Entire under border of third rib
+C1266970	Entire outer surface of third rib
+C1266971	Entire inner surface of third rib
+C1266972	Entire crest of head of fourth rib
+C1266974	Entire articular part of tubercle of fourth rib
+C1266975	Entire non-articular part of tubercle of fourth rib
+C1266976	Entire angle of fourth rib
+C1266979	Entire upper border of fourth rib
+C1266980	Entire under border of fourth rib
+C1266981	Entire outer surface of fourth rib
+C1266982	Entire inner surface of fourth rib
+C1266983	Entire crest of head of fifth rib
+C1266985	Entire articular part of tubercle of fifth rib
+C1266986	Entire non-articular part of tubercle of fifth rib
+C1266987	Entire angle of fifth rib
+C1266990	Entire upper border of fifth rib
+C1266991	Entire under border of fifth rib
+C1266992	Entire outer surface of fifth rib
+C1266993	Entire inner surface of fifth rib
+C1266994	Entire crest of head of sixth rib
+C1266996	Entire articular part of tubercle of sixth rib
+C1266997	Entire non-articular part of tubercle of sixth rib
+C1266998	Entire angle of sixth rib
+C1267001	Entire upper border of sixth rib
+C1267002	Entire under border of sixth rib
+C1267003	Entire outer surface of sixth rib
+C1267004	Entire inner surface of sixth rib
+C1267005	Entire crest of head of seventh rib
+C1267007	Entire articular part of tubercle of seventh rib
+C1267008	Entire non-articular part of tubercle of seventh rib
+C1267009	Entire angle of seventh rib
+C1267012	Entire upper border of seventh rib
+C1267013	Entire under border of seventh rib
+C1267014	Entire outer surface of seventh rib
+C1267015	Entire inner surface of seventh rib
+C1267016	Entire crest of head of eighth rib
+C1267018	Entire articular part of tubercle of eighth rib
+C1267019	Entire non-articular part of tubercle of eighth rib
+C1267020	Entire angle of eighth rib
+C1267023	Entire upper border of eighth rib
+C1267024	Entire under border of eighth rib
+C1267025	Entire outer surface of eighth rib
+C1267026	Entire inner surface of eighth rib
+C1267027	Entire crest of head of ninth rib
+C1267029	Entire articular part of tubercle of ninth rib
+C1267030	Entire non-articular part of tubercle of ninth rib
+C1267031	Entire angle of ninth rib
+C1267034	Entire upper border of ninth rib
+C1267035	Entire under border of ninth rib
+C1267036	Entire outer surface of ninth rib
+C1267037	Entire inner surface of ninth rib
+C1267040	Entire articular part of tubercle of tenth rib
+C1267041	Entire non-articular part of tubercle of tenth rib
+C1267042	Entire angle of tenth rib
+C1267045	Entire upper border of tenth rib
+C1267046	Entire under border of tenth rib
+C1267047	Entire outer surface of tenth rib
+C1267048	Entire inner surface of tenth rib
+C1267053	Entire angle of eleventh rib
+C1267056	Entire upper border of eleventh rib
+C1267057	Entire under border of eleventh rib
+C1267058	Entire outer surface of eleventh rib
+C1267059	Entire inner surface of eleventh rib
+C1267064	Entire angle of twelfth rib
+C1267067	Entire upper border of twelfth rib
+C1267068	Entire under border of twelfth rib
+C1267069	Entire outer surface of twelfth rib
+C1267070	Entire inner surface of twelfth rib
+C1267115	Entire synchondrosis
+C1267214	Entire root of nose
+C1267547	Entire mouth region
+C1267582	Proximal stomach
+C1267662	Entire right margin of uterus
+C1267663	Entire left margin of uterus
+C1268222	Body surface region
+C1268224	Region of hand (body structure)
+C1268233	Entire right hip region
+C1268234	Entire left hip region
+C1268991	Entire upper inner quadrant of breast
+C1268992	Entire upper outer quadrant of breast
+C1268993	Entire lower inner quadrant of breast
+C1268994	Entire lower outer quadrant of breast
+C1269551	Entire roof of nasopharynx
+C1269615	Entire proximal end of humerus
+C1269871	Entire lumbar spine
+C1272506	Entire Brodmann area 43, subcentral
+C1272523	Entire Brodmann area 1, intermediate postcentral
+C1272524	Entire Brodmann area 2, caudal postcentral
+C1272525	Entire Brodmann area 3, rostral postcentral
+C1272527	Entire Brodmann area 5, preparietal
+C1272530	Entire Brodmann area 8, intermediate frontal
+C1272532	Entire Brodmann area 10, frontopolar
+C1272540	Entire Brodmann area 22, superior temporal
+C1273020	Entire jaw region
+C1275509	Entire supraorbital area
+C1275510	Entire postauricular region
+C1275511	Entire preauricular region
+C1275631	Anal part of perineum
+C1276227	region of kidney
+C1276978	Entire suture line of skin
+C1277334	Entire inferior border of parietal bone
+C1277591	Entire lateral part of occipital bone
+C1277604	Entire tuberculum sellae
+C1277625	Entire middle clinoid process
+C1277628	Entire posterior clinoid process
+C1277631	Entire anterior clinoid process
+C1278224	Entire suprahyoid region
+C1278246	Entire junctional region with oropharynx
+C1278546	Entire fold of laryngeal nerve
+C1278562	Entire salpingopharyngeal fold
+C1278595	Entire nucleus pulposus of intervertebral disc of third cervical vertebra
+C1278596	Entire anulus fibrosus of intervertebral disc of third cervical vertebra
+C1278597	Entire nucleus pulposus of intervertebral disc of fourth cervical vertebra
+C1278598	Entire anulus fibrosus of intervertebral disc of fourth cervical vertebra
+C1278599	Entire nucleus pulposus of intervertebral disc of fifth cervical vertebra
+C1278600	Entire anulus fibrosus of intervertebral disc of fifth cervical vertebra
+C1278601	Entire nucleus pulposus of intervertebral disc of sixth cervical vertebra
+C1278602	Entire anulus fibrosus of intervertebral disc of sixth cerebral vertebra
+C1278604	Entire nucleus pulposus of intervertebral disc of cervical vertebra
+C1278615	Entire superior articular process of third cervical vertebra
+C1278616	Entire inferior articular process of third cervical vertebra
+C1278617	Entire articular process of third cervical vertebra
+C1278618	Entire superior articular process of fourth cervical vertebra
+C1278619	Entire inferior articular process of fourth cervical vertebra
+C1278620	Entire articular process of fourth cervical vertebra
+C1278621	Entire superior articular process of fifth cervical vertebra
+C1278622	Entire inferior articular process of fifth cervical vertebra
+C1278623	Entire articular process of fifth cervical vertebra
+C1278624	Entire superior articular process of sixth cervical vertebra
+C1278627	Entire inferior articular process of sixth cervical vertebra
+C1278628	Entire articular process of sixth cervical vertebra
+C1278629	Entire superior articular process of seventh cervical vertebra
+C1278630	Entire inferior articular process of seventh cervical vertebra
+C1278631	Entire articular process of seventh cervical vertebra
+C1278632	Entire arch of cervical vertebra
+C1278633	Entire superior articular process of axis
+C1278634	Entire inferior articular process of axis
+C1278635	Entire articular process of axis
+C1278639	Entire superior belly of omohyoid muscle
+C1278640	Entire inferior belly of omohyoid muscle
+C1278641	Entire straight part of longus colli muscle
+C1278642	Entire superior oblique part of longus colli muscle
+C1278643	Entire inferior oblique part of longus colli muscle
+C1278664	Entire sternocleidomastoid region of neck
+C1278665	Entire scalene region of neck
+C1278666	Entire carotid triangle
+C1278669	Right lateral part of neck
+C1278672	Left lateral part of neck
+C1278676	Entire anterior epiglottis
+C1278677	Entire posterior epiglottis
+C1278733	Entire lateral wall of hypopharynx
+C1278736	Entire upper cervical spinal cord
+C1278738	Entire lower cervical spinal cord
+C1278742	Entire apex of cervical spinal cord posterior horn
+C1278744	Entire substantia gelatinosa of cervical spinal cord posterior horn
+C1278749	Entire cervical spinal cord white matter
+C1278750	Entire anterior cervical spinal cord nerve root
+C1278751	Entire posterior cervical spinal cord nerve root
+C1278809	Entire superior wall of nasopharynx
+C1278813	Entire lateral pharyngeal wall
+C1278828	Entire peripharyngeal area
+C1278831	Clavicular region (surface region)
+C1278849	Entire infraclavicular region
+C1278884	Entire orbital region
+C1278885	Entire canthus
+C1278910	Entire oral cavity
+C1278941	Entire apex of right lung
+C1278979	Entire base of right lung
+C1279043	Entire perihilar region of right lung
+C1279066	Entire superior articular facet of atlas
+C1279067	Entire inferior articular facet of atlas
+C1279149	Entire surface region of elbow
+C1279151	Entire groin (surface region)
+C1279152	Entire back of head
+C1279156	Entire sacral region
+C1279158	Entire pubic region
+C1279206	Entire apex of left lung
+C1279207	Entire base of left lung
+C1279208	Entire root of left lung
+C1279214	Entire perihilar region of left lung
+C1279286	Entire intervenous tubercle of right atrium
+C1279287	Entire supratricuspid valve area
+C1279298	Entire supramitral valve area
+C1279407	Entire preductal region of aortic arch
+C1279408	Entire postductal region of aortic arch
+C1279410	Entire juxtaductal region of aortic arch
+C1279442	Entire costal surface of lung
+C1279443	Entire vertebral part of medial surface of lung
+C1279444	Entire mediastinal part of medial surface of lung
+C1279445	Entire cardiac impression of medial surface of lung
+C1279447	Entire diaphragmatic surface of lung
+C1279448	Entire interlobar surfaces of lung
+C1279449	Entire anterior margin of lung
+C1279450	Entire inferior margin of lung
+C1279451	Entire perihilar region of lung
+C1279455	Entire lung parenchyma
+C1279478	Entire right axillary region
+C1279479	Entire left axillary region
+C1279491	Entire mammary region
+C1279499	Entire substernal region
+C1279539	Entire midcervical section of neck of femur
+C1279562	Entire falciform margin of saphenous opening
+C1279597	Entire below knee region
+C1279615	Entire malleolar articular surface of tibia
+C1279640	Entire cuboidal articular surface of calcaneus
+C1279650	Entire ball of foot
+C1279654	Entire transverse arch of foot
+C1279717	Entire articular surface, metatarsal, of phalanx of great toe
+C1279718	Entire articular surface, interphalangeal, of phalanx of great toe
+C1279824	Entire articular surface, metatarsal, of phalanx of second toe
+C1279826	Entire articular surface, interphalangeal, of phalanx of second toe
+C1279833	Entire articular surface, metatarsal, of phalanx of third toe
+C1279834	Entire articular surface, interphalangeal, of phalanx of third toe
+C1279839	Entire articular surface, metatarsal, of phalanx of fourth toe
+C1279841	Entire articular surface, interphalangeal, of phalanx of fourth toe
+C1279847	Entire articular surface, metatarsal, of phalanx of fifth toe
+C1279848	Entire articular surface, interphalangeal, of phalanx of fifth toe
+C1279861	Lower trunk (surface region)
+C1279862	Entire shoulder girdle
+C1279863	Upper trunk (surface region)
+C1279954	Entire articular surface, metatarsal, of phalanx of foot
+C1279955	Entire articular surface, interphalangeal, of phalanx of foot
+C1279975	Entire posterior calcaneal articular surface of talus
+C1279976	Entire middle calcaneal articular surface of talus
+C1279978	Entire navicular calcaneal articular surface of talus
+C1279984	Entire navicular facet of cuboid bone
+C1280018	Entire bimalleolar area
+C1280019	Entire trimalleolar area
+C1280033	Entire perihepatic region
+C1280036	Entire subhepatic region
+C1280037	Entire perisplenic region
+C1280039	Entire lateral region of abdomen
+C1280041	Entire mid abdomen (surface region)
+C1280042	Entire right upper quadrant of abdomen
+C1280043	Entire left upper quadrant of abdomen
+C1280045	Entire upper abdominal quadrant
+C1280046	Entire right lower quadrant of abdomen
+C1280047	Entire left lower quadrant of abdomen
+C1280048	Entire lower abdominal quadrant
+C1280064	Entire body region
+C1280066	Entire thoracic inlet
+C1280080	Entire posterior mediastinum
+C1280083	Entire umbilical region
+C1280084	Entire inguinal region
+C1280087	Entire waist (surface region)
+C1280088	Entire perineum
+C1280104	Entire nail of finger
+C1280105	Entire nail of toe
+C1280262	Entire radiating portion of cortical lobule of kidney
+C1280276	Entire convoluting portion of cortical lobule of kidney
+C1280328	Entire inferior portion of duodenum
+C1280329	Entire ascending portion of duodenum
+C1280339	Entire anal intersphincteric groove
+C1280347	Entire fornix of vagina
+C1280377	Entire mesial surface of tooth
+C1280378	Entire distal surface of tooth
+C1280393	Entire anterior floor of mouth
+C1280394	Entire lateral floor of mouth
+C1280418	Entire anterior margin of pancreas
+C1280446	Entire superior margin of adrenal gland
+C1280447	Entire medial margin of adrenal gland
+C1280494	Entire intestinal surface of uterus
+C1280495	Entire vesical surface of uterus
+C1280496	Entire endometrial surface epithelium
+C1280499	Entire margin of uterus
+C1280595	Entire gastropancreatic folds
+C1280597	Entire superior duodenal fold
+C1280600	Entire inferior duodenal fold
+C1280601	Entire paraduodenal fold
+C1280611	Entire anterior mediastinum
+C1280612	Entire inframammary region
+C1280613	Entire lateral umbilical fold
+C1280614	Entire pectoral region
+C1280615	Entire root of mesentery
+C1280626	Entire ileocecal fold
+C1280628	Entire vascular fold of cecum
+C1280657	Entire angle of rib
+C1280671	Entire mesenteric border of jejunum
+C1280676	Entire anti-mesenteric border of jejunum
+C1280681	Entire proximal portion of ileum
+C1280682	Entire middle portion of ileum
+C1280684	Entire mesenteric border of ileum
+C1280687	Entire hilum of lung
+C1280689	Entire anti-mesenteric border of ileum
+C1280694	Entire pituitary fossa
+C1280741	Entire male perineum
+C1280743	Entire female perineum
+C1280756	Entire superior flexure of duodenum
+C1280757	Entire inferior flexure of duodenum
+C1280762	Entire mesenteric border of small intestine
+C1280763	Entire anti-mesenteric border of small intestine
+C1280780	Entire gastric foveola
+C1280782	Entire villous fold of stomach
+C1280784	Entire caudal one third of stomach
+C1280787	Entire area gastrica
+C1280808	Entire duodenal impression of liver
+C1280809	Entire colic impression of liver
+C1280810	Entire renal impression of liver
+C1280811	Entire adrenal impression of liver
+C1280815	Entire groove of ligamentum venosum of liver
+C1280821	Entire gastric impression of liver
+C1280843	Entire lateral margin of tongue
+C1280907	Entire perirectal region
+C1280908	Entire retrovaginal region
+C1280912	Entire upper third of esophagus
+C1280913	Entire middle third of esophagus
+C1280925	Entire posterior wall of oropharynx
+C1280926	Entire pharyngeal recess
+C1280927	Entire posterior wall of hypopharynx
+C1280944	Entire low right atrium
+C1280948	Entire pulmonary surface of heart
+C1280969	Entire Hesselbach's triangle
+C1280970	Entire inguinal ring
+C1280991	Entire frontal region
+C1281007	Entire jugular notch of sternum
+C1281009	Entire postcentral gyrus
+C1281030	Entire precordium
+C1281031	Entire parasternal region
+C1281087	Entire anterior surface of kidney
+C1281088	Entire posterior surface of kidney
+C1281089	Entire lateral border of kidney
+C1281090	Entire medial border of kidney
+C1281099	Entire metatarsal region
+C1281114	Entire lateral glossoepiglottic fold
+C1281146	Entire anterior surface of prostate
+C1281147	Entire posterior surface of prostate
+C1281148	Entire inferolateral surface of prostate
+C1281184	Entire posterior surface of pancreas
+C1281185	Entire inferior surface of pancreas
+C1281192	Entire anterior surface of adrenal gland
+C1281193	Entire posterior surface of adrenal gland
+C1281213	Entire retropharyngeal area
+C1281261	Entire equator of eyeball
+C1281273	Entire external surface of sclera
+C1281301	Entire anterior surface of iris
+C1281302	Entire posterior surface of iris
+C1281343	Entire presacral region
+C1281430	Entire acetabular fossa
+C1281432	Entire roof of acetabulum
+C1281433	Entire lunar surface of acetabulum
+C1281434	Entire articular surface of acetabulum
+C1281451	Entire superior articular facet of sacrum
+C1281453	Entire pelvic aspect of sacrum
+C1281468	Entire symphysial surface of pubis
+C1281470	Entire iliopubic eminence
+C1281538	Entire free edge of nail
+C1281585	Entire hip region
+C1281593	Entire back (surface region)
+C1281621	Entire iliopectinate arch of iliac fascia
+C1281716	Entire lateral arch of foot
+C1281835	Entire distal end of humerus
+C1281843	Entire sacroiliac region
+C1281864	Entire apex of patella
+C1281865	Entire infrascapular region of back
+C1281866	Entire costovertebral angle of twelfth rib
+C1282104	Seminal vesicle wall
+C1282130	Entire region of kidney
+C1282377	Entire apex of lung
+C1282378	Entire base of lung
+C1282618	Entire multiple topographic sites
+C1282649	Entire cleavage lines of skin
+C1282711	Entire paracortical area of lymph node
+C1282728	Entire diaphragmatic surface of spleen
+C1282729	Entire visceral surface of spleen
+C1282730	Entire gastric surface of spleen
+C1282732	Entire renal surface of spleen
+C1282733	Entire colic surface of spleen
+C1282734	Entire posterior extremity of spleen
+C1282735	Entire anterior extremity of spleen
+C1282737	Entire superior margin of spleen
+C1282738	Entire inferior margin of spleen
+C1282768	Entire proximal third of shaft of bone
+C1282769	Entire middle third of shaft of bone
+C1282771	Entire distal third of shaft of bone
+C1282772	Entire articular surface of bone
+C1282863	Entire organ capsule
+C1282865	Entire organ cavity subdivision
+C1283682	Region of nasopharynx
+C1283792	Entire shoulder region
+C1283835	Entire axillary fossa
+C1283836	Entire wrist region
+C1283838	Entire knee region
+C1283839	Entire ankle region
+C1283873	Entire mid portion of circumflex branch of left coronary
+C1283900	Entire head and neck
+C1283901	Entire buccal region of face
+C1283902	Entire submandibular area
+C1284163	Entire superior border of manubrium
+C1284183	Entire proximal shaft of femur
+C1284254	Entire upper aerodigestive tract
+C1284255	Entire respiratory region of nose
+C1284256	Entire olfactory region of nose
+C1284257	Entire apex of nose
+C1284258	Entire bridge of nose
+C1284267	Entire posterior wall of nasopharynx
+C1284275	Entire superior laryngeal aperture
+C1284282	Entire supraglottis
+C1284283	Entire tracheal bifurcation
+C1284284	Entire medial surface of lung
+C1284287	Entire bronchopulmonary segment
+C1284288	Entire hilum of right lung
+C1284289	Entire subapical segment of right lower lobe of lung
+C1284290	Entire hilum of left lung
+C1284291	Entire superior segment of lower division of left upper lobe of lung
+C1284292	Entire inferior segment of lower division of left upper lobe of lung
+C1284293	Entire medial basal segment of left lower lobe of lung
+C1284294	Entire subapical segment of left lower lobe of lung
+C1284308	Entire surface of heart
+C1284331	Entire suprapulmonic valve area
+C1284368	Entire vermilion border of lip
+C1284371	Entire tip of tongue
+C1284373	Entire dorsum of tongue
+C1284374	Entire pharyngeal portion of dorsum of tongue
+C1284377	Entire border of tongue
+C1284380	Entire inferior surface of tongue
+C1284381	Entire sublingual region
+C1284403	Entire lateral wall of oropharynx
+C1284407	Entire lower third of esophagus
+C1284410	Entire lesser curvature of stomach
+C1284411	Entire greater curvature of stomach
+C1284412	Entire proximal stomach
+C1284416	Entire pyloric portion of stomach
+C1284423	Entire superior portion of duodenum
+C1284425	Entire descending portion of duodenum
+C1284429	Entire distal portion of ileum
+C1284436	Entire right colon
+C1284437	Entire ascending colon
+C1284438	Entire transverse colon
+C1284439	Entire left colon
+C1284440	Entire descending colon
+C1284441	Entire sigmoid colon
+C1284443	Entire rectosigmoid
+C1284454	Entire right lobe of liver
+C1284455	Entire left lobe of liver
+C1284456	Entire caudate lobe of liver
+C1284458	Entire diaphragmatic aspect of liver
+C1284459	Entire superior portion of diaphragmatic aspect of liver
+C1284460	Entire posterior portion of diaphragmatic aspect of liver
+C1284461	Entire visceral aspect of liver
+C1284462	Entire inferior margin of liver
+C1284491	Entire pelvic portion of ureter
+C1284494	Entire fundus of urinary bladder
+C1284495	Entire neck of urinary bladder
+C1284511	Entire upper third of vagina
+C1284512	Entire anterior wall of vagina
+C1284513	Entire posterior wall of vagina
+C1284514	Entire anterior and posterior wall of vagina
+C1284515	Entire middle third of vagina
+C1284516	Entire lower third of vagina
+C1284517	Entire isthmus uteri
+C1284531	Entire radix penis
+C1284532	Entire bulb of urethra
+C1284533	Entire crus penis
+C1284540	Entire superior pole of testis
+C1284573	Entire posterior horn of lateral ventricle
+C1284574	Entire inferior horn of lateral ventricle
+C1284588	Entire frontal gyrus
+C1284589	Entire cortex of frontal lobe
+C1284591	Entire middle frontal gyrus
+C1284592	Entire inferior frontal gyrus
+C1284593	Entire ascending frontal gyrus
+C1284594	Entire parietal gyrus
+C1284595	Entire inferior parietal lobule
+C1284596	Entire occipital gyrus
+C1284597	Entire cortex of occipital lobe
+C1284600	Entire Brodmann areas 17 (striate cortex), 18 (parastriate cortex) and 19 (peristriate cortex) of occipital lobe
+C1284605	Entire auditory projection area
+C1284625	Entire anterior region of thalamus
+C1284641	Entire preoptic area
+C1284642	Entire supraoptic region of hypothalamus
+C1284644	Entire caudal area of hypothalamus
+C1284668	Entire pontine portion of corticospinal tract
+C1284719	Entire accessory nerve external portion
+C1284739	Entire cranial portion of parasympathetic nervous system
+C1284740	Entire sacral portion of parasympathetic nervous system
+C1284748	Entire anterior surface of cornea
+C1284752	Entire pupillary margin of iris
+C1284753	Entire ciliary margin of iris
+C1284756	Entire fundus of eye
+C1284762	Entire lateral canthus
+C1284763	Entire medial canthus
+C1284764	Entire free margin of eyelid
+C1284772	Entire spine of helix
+C1284773	Entire tail of helix
+C1284774	Entire auricular tubercle
+C1284790	Entire posterior mallear fold
+C1284791	Entire anterior mallear fold
+C1284844	Entire side of head
+C1284847	Entire forehead
+C1284848	Entire vertex
+C1284849	Entire parietal region
+C1284850	Entire occipital region
+C1284851	Entire suboccipital region
+C1284852	Entire temporal region
+C1284853	Entire infratemporal region
+C1284854	Entire auricular region
+C1284856	Entire right side of face
+C1284857	Entire left side of face
+C1284858	Entire oral region of face
+C1284859	Entire zygomatic region of face
+C1284861	Entire infrapalpebral fold
+C1284862	Entire chin
+C1284863	Entire mental region of face
+C1284864	Entire submental triangle
+C1284866	Entire lower jaw region
+C1284869	Entire dorsum sellae
+C1284871	Entire infraorbital margin
+C1284872	Entire superior wall of orbit
+C1284875	Entire periorbital region
+C1284877	Entire laryngeal prominence
+C1284878	Entire anterior portion of neck
+C1284880	Entire lateral portion of neck
+C1284883	Entire posterior portion of neck
+C1284884	Entire clavicular region
+C1284885	Entire supraclavicular region of neck
+C1284886	Entire lateral region of trunk
+C1284888	Entire anterior axillary line
+C1284889	Entire posterior axillary line
+C1284890	Entire upper trunk
+C1284891	Entire lower trunk
+C1284892	Entire right side of trunk
+C1284893	Entire left side of trunk
+C1284897	Entire thoracolumbar region of back
+C1284899	Entire interscapular region of back
+C1284901	Entire flank
+C1284902	Entire lumbosacral region
+C1284903	Entire sacrococcygeal region
+C1284904	Entire coccygeal region
+C1284905	Entire buttock
+C1284908	Entire anal region
+C1284909	Entire urogenital region of perineum
+C1284910	Entire right thorax
+C1284911	Entire left thorax
+C1284912	Entire posterior chest wall
+C1284913	Entire thoracic outlet
+C1284914	Entire superior mediastinum
+C1284915	Entire middle mediastinum
+C1284916	Entire lumbar part of diaphragm
+C1284917	Entire upper abdomen
+C1284918	Entire lower abdomen
+C1284919	Entire epigastric region
+C1284920	Entire hypochondriac region
+C1284942	Entire pelvic wall
+C1284946	Entire right inguinal region
+C1284947	Entire left inguinal region
+C1284951	Entire anterior axillary fold
+C1284952	Entire posterior axillary fold
+C1284953	Entire axillary region
+C1284955	Entire deltoid region
+C1284960	Entire antecubital region
+C1284966	Dorsum of hand surface
+C1284968	Thenar region surface
+C1284969	Hypothenar region surface
+C1284975	Entire palmar surface of thumb
+C1284986	Entire dorsal surface of ring finger
+C1285002	Entire femoral region
+C1285003	Entire anterior surface of thigh
+C1285004	Entire posterior surface of thigh
+C1285005	Entire medial surface of thigh
+C1285006	Entire lateral surface of thigh
+C1285007	Entire popliteal region
+C1285009	Entire lower leg, from knee to ankle
+C1285011	Entire medial surface of lower leg
+C1285013	Entire lateral surface of leg
+C1285014	Entire anterior tibial compartment
+C1285016	Entire malleolar region
+C1285017	Entire lateral malleolar region
+C1285018	Entire medial malleolar region
+C1285019	Entire heel
+C1285020	Entire calcaneal region
+C1285025	Entire arch of foot
+C1285026	Entire longitudinal arch of foot
+C1285030	Entire plantar surface of great toe
+C1285031	Entire lateral surface of great toe
+C1285034	Entire medial surface of second toe
+C1285037	Entire medial surface of third toe
+C1285040	Entire medial surface of fourth toe
+C1285043	Entire medial surface of fifth toe
+C1285054	Entire fetal implantation site
+C1285055	Entire junctional zone of implantation
+C1285093	Entire surface region of pelvis
+C1285095	Region of foot
+C1285124	Skin of eye region (body structure)
+C1285477	pole of kidney
+C1285478	surface of kidney
+C1285487	Structure of posterior lamella of upper eyelid
+C1285488	Entire posterior lamella of upper eyelid
+C1285491	Structure of anterior lamella of lower eyelid
+C1285492	Structure of posterior lamella of lower eyelid
+C1285493	Entire anterior lamella of lower eyelid
+C1285494	Entire posterior lamella of lower eyelid
+C1285518	Entire orbit proper
+C1288302	Entire dermatoglyphic patterns of sole
+C1288303	Entire dermatoglyphic patterns of palm
+C1288306	Skin structure of eyebrow
+C1288312	Structure of trochanteric section of femur
+C1288319	Structure of posterior nasopharynx
+C1288320	Structure of lateral nasopharynx
+C1288321	Structure of anterior nasopharynx
+C1288322	Structure of superior nasopharynx
+C1288323	Structure of roof of nasopharynx
+C1288324	Structure of myocardium of inferior surface of left ventricle
+C1288326	Structure of caudal one third of stomach
+C1288328	Structure of dome of urinary bladder
+C1288355	Entire hemorrhoidal zone
+C1288357	Entire cloacogenic area of rectum
+C1288406	Entire posterior border of testis
+C1288423	Entire dorsum of penis
+C1288425	Entire urethral aspect of penis
+C1288447	Entire sternal region
+C1288448	Entire costal arch
+C1288465	Entire superior articular process of first thoracic vertebra
+C1288466	Entire superior articular process of second thoracic vertebra
+C1288467	Entire superior articular process of third thoracic vertebra
+C1288468	Entire superior articular process of fourth thoracic vertebra
+C1288469	Entire superior articular process of fifth thoracic vertebra
+C1288470	Entire superior articular process of sixth thoracic vertebra
+C1288471	Entire superior articular process of seventh thoracic vertebra
+C1288472	Entire inferior articular process of eighth thoracic vertebra
+C1288473	Entire superior articular process of ninth thoracic vertebra
+C1288474	Entire superior articular process of tenth thoracic vertebra
+C1288475	Entire superior articular process of eleventh thoracic vertebra
+C1288476	Entire superior articular process of twelfth thoracic vertebra
+C1288477	Entire superior articular process of thoracic vertebra
+C1288478	Entire inferior articular process of first thoracic vertebra
+C1288479	Entire inferior articular process of second thoracic vertebra
+C1288480	Entire inferior articular process of third thoracic vertebra
+C1288481	Entire inferior articular process of fourth thoracic vertebra
+C1288482	Entire inferior articular process of fifth thoracic vertebra
+C1288483	Entire inferior articular process of sixth thoracic vertebra
+C1288484	Entire inferior articular process of seventh thoracic vertebra
+C1288485	Entire superior articular process of eighth thoracic vertebra
+C1288486	Entire inferior articular process of ninth thoracic vertebra
+C1288487	Entire inferior articular process of tenth thoracic vertebra
+C1288488	Entire inferior articular process of eleventh thoracic vertebra
+C1288489	Entire inferior articular process of twelfth thoracic vertebra
+C1288490	Entire inferior articular process of thoracic vertebra
+C1288491	Entire articular process of first thoracic vertebra
+C1288492	Entire articular process of second thoracic vertebra
+C1288493	Entire articular process of third thoracic vertebra
+C1288494	Entire articular process of fourth thoracic vertebra
+C1288495	Entire articular process of fifth thoracic vertebra
+C1288496	Entire articular process of sixth thoracic vertebra
+C1288497	Entire articular process of seventh thoracic vertebra
+C1288498	Entire articular process of eighth thoracic vertebra
+C1288499	Entire articular process of ninth thoracic vertebra
+C1288500	Entire articular process of tenth thoracic vertebra
+C1288501	Entire articular process of eleventh thoracic vertebra
+C1288502	Entire articular process of twelfth thoracic vertebra
+C1288503	Entire articular process of thoracic vertebra
+C1288560	Entire anterior surface of manubrium
+C1288561	Entire posterior surface of manubrium
+C1288562	Entire clavicular notch of sternum
+C1288563	Entire inferior border of manubrium
+C1288564	Entire lateral border of manubrium
+C1288565	Entire anterior surface of body of sternum
+C1288566	Entire posterior surface of body of sternum
+C1288567	Entire lateral border of body of sternum
+C1288572	Entire articular part of tubercle of third rib
+C1288573	Entire non-articular part of tubercle of third rib
+C1288574	Entire articular part of tubercle of rib
+C1288575	Entire non-articular part of tubercle of rib
+C1288577	Entire upper border of rib
+C1288578	Entire under border of rib
+C1288579	Entire outer surface of rib
+C1288580	Entire inner surface of rib
+C1288585	Entire costal part of diaphragm
+C1288586	Entire sternal part of diaphragm
+C1288607	Entire parovarian region
+C1288610	Entire lateral abdominal wall
+C1288616	Entire femoral fossa
+C1288618	Entire lateral inguinal fossa
+C1288619	Entire right inguinal triangle
+C1288620	Entire left inguinal triangle
+C1288635	Entire femoral ring
+C1288637	Entire mid thigh region
+C1288638	Entire above knee region
+C1288639	Entire right shoulder region
+C1288640	Entire left shoulder region
+C1288641	Entire right femoral region
+C1288642	Entire left femoral region
+C1288647	Entire dorsum of nose
+C1288664	Entire posterior cubital region
+C1288665	Entire lateral cubital region
+C1288666	Entire medial cubital region
+C1288675	Entire articular circumference of ulna
+C1288706	Entire medial border of scapula
+C1288708	Entire costal aspect of scapula
+C1288709	Entire dorsal aspect of scapula
+C1288737	Entire radial notch of ulna
+C1288738	Entire ulnar notch of radius
+C1288739	Entire carpal articular surface of radius
+C1288740	Entire bone of forearm
+C1288741	Entire right forearm
+C1288742	Entire left forearm
+C1288749	Entire anterior carpal region
+C1288750	Entire posterior carpal region
+C1288751	Entire right wrist
+C1288752	Entire left wrist
+C1288777	Entire lateral nail fold
+C1288814	Entire tuberosity of distal phalanx of index finger
+C1288815	Entire base of phalanx of index finger
+C1288816	Entire shaft of phalanx of index finger
+C1288817	Entire head of phalanx of index finger
+C1288818	Entire articular surface, metacarpal, of phalanx of index finger
+C1288819	Entire articular surface, interphalangeal, of phalanx of index finger
+C1288821	Entire articular surface, phalanges, of second metacarpal bone
+C1288829	Entire tuberosity of distal phalanx of middle finger
+C1288830	Entire base of phalanx of middle finger
+C1288831	Entire shaft of phalanx of middle finger
+C1288832	Entire head of phalanx of middle finger
+C1288833	Entire articular surface, metacarpal, of phalanx of middle finger
+C1288834	Entire articular surface, interphalangeal, of phalanx of middle finger
+C1288843	Entire tuberosity of distal phalanx of ring finger
+C1288844	Entire base of phalanx of ring finger
+C1288845	Entire shaft of phalanx of ring finger
+C1288846	Entire head of phalanx of ring finger
+C1288847	Entire articular surface, metacarpal, of phalanx of ring finger
+C1288848	Entire articular surface, interphalangeal, of phalanx of ring finger
+C1288849	Entire capsule of metacarpophalangeal joint of ring finger
+C1288850	Entire capsule of proximal interphalangeal joint of ring finger
+C1288851	Entire capsule of distal interphalangeal joint of ring finger
+C1288857	Entire tuberosity of distal phalanx of little finger
+C1288858	Entire base of phalanx of little finger
+C1288859	Entire shaft of phalanx of little finger
+C1288860	Entire head of phalanx of little finger
+C1288861	Entire articular surface, metacarpal, of phalanx of little finger
+C1288862	Entire articular surface, interphalangeal, of phalanx of little finger
+C1288879	Entire proximal nail fold
+C1288888	Entire articular surface, interphalangeal, of phalanx of thumb
+C1288889	Entire articular surface, metacarpal, of phalanx of thumb
+C1288890	Entire tuberosity of distal phalanx of thumb
+C1288920	Entire articular surface, metacarpal, of phalanx of hand
+C1288921	Entire articular surface, interphalangeal, of phalanx of hand
+C1288923	Entire articular surface, first metacarpal, of second metacarpal bone
+C1288924	Entire articular surface, trapezoid, of second metacarpal bone
+C1288925	Entire articular surface, third metacarpal, of second metacarpal bone
+C1288926	Entire articular surface, second metacarpal, of third metacarpal bone
+C1288927	Entire articular surface, capitate, of third metacarpal bone
+C1288928	Entire articular surface, fourth metacarpal, of third metacarpal bone
+C1288929	Entire articular surface, phalanges, of third metacarpal bone
+C1288930	Entire styloid process of third metacarpal bone
+C1288931	Entire articular surface, third metacarpal, of fourth metacarpal bone
+C1288932	Entire articular surface, capitate, of fourth metacarpal bone
+C1288933	Entire articular surface, hamate, of fourth metacarpal bone
+C1288934	Entire articular surface, fifth metacarpal, of fourth metacarpal bone
+C1288935	Entire articular surface, phalanges, of fourth metacarpal bone
+C1288936	Entire articular surface, fourth metacarpal, of fifth metacarpal bone
+C1288937	Entire articular surface, hamate, of fifth metacarpal bone
+C1288938	Entire articular surface, phalanges, of fifth metacarpal bone
+C1288939	Entire articular surface, trapezoid, of first metacarpal bone
+C1288940	Entire articular surface, second metacarpal, of first metacarpal bone
+C1288941	Entire articular surface, phalanges, of first metacarpal bone
+C1289017	Entire suprasellar region
+C1289018	Entire supratentorial region of cranial cavity
+C1289019	Entire infratentorial region of cranial cavity
+C1289020	Entire infraorbital region of face
+C1289021	Entire right upper eyelid
+C1289022	Entire right lower eyelid
+C1289035	Entire right margin of tongue
+C1289043	Entire left upper eyelid
+C1289044	Entire left lower eyelid
+C1289057	Entire left margin of tongue
+C1289110	Entire anterior mallear fold of tympanic membrane
+C1289111	Entire posterior mallear fold of tympanic membrane
+C1289115	Entire fold of chorda tympani
+C1289118	Entire fold for stapes
+C1289132	Entire infraauricular region
+C1289145	Entire nasopharyngeal surface of soft palate
+C1289158	Entire contact surface of tooth
+C1289171	Entire vestibule of mouth
+C1289172	Entire oral cavity proper
+C1289173	Entire retromaxillary region
+C1289174	Entire lateral surface of sublingual gland
+C1289175	Entire medial surface of sublingual gland
+C1289181	Entire dorsum of anterior tongue
+C1289185	Entire dorsum of tip of tongue
+C1289186	Entire palatine portion of dorsum of tongue
+C1289187	Entire dorsal surface of base of tongue
+C1289210	Entire center of face
+C1289211	Entire lateral aspect of face
+C1289222	Entire superior tarsal plate
+C1289223	Entire inferior tarsal plate
+C1289232	Entire inferior tarsal muscle
+C1289234	Entire anterior aspect of eyelids
+C1289235	Entire posterior aspect of eyelids
+C1289241	Entire lacrimal fold
+C1289303	Entire infraorbital margin of maxilla
+C1289304	Entire retroorbital region
+C1289326	Entire roof of nose
+C1289333	Entire posterior margin of nasal septum
+C1289336	Entire nasal portion of nasopharynx
+C1289371	Entire fold for incus
+C1289382	Entire roof of mastoid antrum
+C1289402	Entire area nervi facialis of internal auditory canal
+C1289403	Entire area cochleae of internal auditory canal
+C1289404	Entire superior vestibular area of internal auditory canal
+C1289405	Entire inferior vestibular area of internal auditory canal
+C1289525	Entire piriform area
+C1289527	Entire transentorhinal zone
+C1289529	Entire olfactory trigone
+C1289537	Entire anterior parolfactory area
+C1289538	Entire posterior parolfactory area
+C1289540	Entire septal area of paraterminal body of rhinencephalon
+C1289541	Entire pharyngeal fornix
+C1289545	Entire fornix of hypothalamus
+C1289556	Entire lateral preoptic nucleus
+C1289557	Entire supraoptic nucleus
+C1289558	Entire paraventricular nucleus
+C1289559	Entire suprachiasmatic nucleus
+C1289560	Entire anterior hypothalamic nucleus
+C1289561	Entire dorsomedial hypothalamic nucleus
+C1289562	Entire supraoptic hypophyseal tract
+C1289568	Entire medial mammillary nucleus
+C1289570	Entire lateral mammillary nucleus
+C1289571	Entire supramammillary nucleus
+C1289574	Entire posterior hypothalamic nucleus
+C1289575	Entire supramammillary decussation
+C1289577	Entire transverse peduncular tract nucleus
+C1289579	Entire median forebrain bundle
+C1289584	Entire distal part of pituitary
+C1289587	Entire anterior tubercle of thalamus
+C1289590	Entire paraventricular nucleus of thalamus
+C1289592	Entire periventricular gray matter of thalamus
+C1289598	Entire ventral posterolateral nucleus of thalamus
+C1289599	Entire ventral posteromedial nucleus of thalamus
+C1289600	Entire ventral posterior inferior nucleus
+C1289601	Entire ventral lateral nucleus of thalamus
+C1289602	Entire posterior tubercle of thalamus
+C1289603	Entire medial part of pulvinar
+C1289604	Entire lateral part of pulvinar
+C1289605	Entire inferior part of pulvinar
+C1289606	Entire external medullary lamina of thalamus
+C1289607	Entire suprageniculate nucleus
+C1289609	Entire inferior brachium of corpora quadrigemina
+C1289611	Entire prerubral area
+C1289626	Entire lateral medullary lamina
+C1289627	Entire medial medullary lamina
+C1289628	Entire frontopontine tract of internal capsule
+C1289631	Entire posterior thalamic radiation of internal capsule
+C1289633	Entire superior thalamic radiation of internal capsule
+C1289638	Entire posterior parietal gyrus
+C1289640	Entire lateral occipital gyrus
+C1289641	Entire lateral occipital sulcus
+C1289645	Entire frontoparietal operculum
+C1289647	Entire longitudinal cerebral fissure
+C1289648	Entire fissure of Sylvius
+C1289652	Entire collateral eminence
+C1289653	Entire supracallosal gyrus
+C1304899	Entire sternal end of clavicle
+C1304900	Entire acromial end of clavicle
+C1304901	Entire proximal end of radius
+C1305139	Entire base of heart
+C1305140	Entire sternocostal surface of heart
+C1305141	Entire diaphragmatic surface of heart
+C1305142	Entire left margin of heart
+C1305201	Entire free margin of ovary
+C1305202	Entire mesovarian margin of ovary
+C1305218	Entire left eye
+C1305221	Entire inner surface of sclera
+C1305270	Entire anterior abdominal wall
+C1305271	Entire posterior abdominal wall
+C1305278	Entire dorsal surface of toe
+C1305279	Entire dorsal surface of great toe
+C1305281	Entire dorsal surface of second toe
+C1305282	Entire dorsal surface of third toe
+C1305283	Entire dorsal surface of fourth toe
+C1305284	Entire dorsal surface of fifth toe
+C1305412	Entire inferior wall of orbit
+C1305414	Entire fossa of cranial cavity
+C1305679	Entire abdominal esophagus
+C1305793	Entire phrenicocostal sinus
+C1305794	Entire right margin of heart
+C1305853	C3 innervation
+C1305854	C8 innervation
+C1305856	C1 innervation
+C1305857	C2 innervation
+C1305858	C4 innervation
+C1305859	C5 innervation
+C1305860	C6 innervation
+C1305861	C7 innervation
+C1306519	Entire posterior pole of eye
+C1306795	Entire surface region of wrist
+C1315909	Airway suction location:Type:Point in time:Respiratory system:Nominal
+C1317088	Airway suction location
+C1318417	LR12 liver acupuncture point
+C1321536	Entire raphe of soft palate
+C1444568	Diabetic Retinopathy Study field 3
+C1444569	Diabetic Retinopathy Study field 4
+C1455688	Recipient site
+C1456858	Subdivision of thorax
+C1508770	Anterior surface of testis
+C1515974	Anatomic Site
+C1517569	Intraventricular
+C1522407	Supratentorial Brain
+C1522411	Anatomic Border
+C1522434	Right Surface of the Liver
+C1527391	Anterior thoracic region
+C1540414	Anterior two-thirds of tongue, ventral surface
+C1540415	Buccal surface
+C1542173	Entire surface region of back of neck
+C1545955	Body site
+C1548801	Body Site Modifier - External
+C1548802	Body Site Modifier - Lower
+C1549530	Body site - Chest Tube
+C1549531	nebulized body site
+C1550314	Suprapubic
+C1562350	Entire subvalvular mitral region
+C1621961	Entire oral frenum
+C1708982	Mesial Surface
+C1720043	Structure of subregion of abdomen
+C1827591	Structure of half of thorax lateral to midsagittal plane
+C1879367	Flexor (Anatomical coordinate)
+C1882534	Radiation Arc
+C1963703	Knee region structure
+C1995000	Back structure, excluding neck
+C2004463	Apex of root of tooth
+C2004536	Suprasternal compartment
+C2239273	Supraglottis (body part)
+C2322940	Planum polare (PP)
+C2322994	Parietal operculum cortex (PO)
+C2323328	Brodmann area 4
+C2323410	Brodmann area 1
+C2323870	Integument of perineum
+C2323987	Staphylion
+C2324310	Alare
+C2324624	Brodmann area 28
+C2324641	Brodmann area 31
+C2325142	Point of glabella
+C2325707	Planum temporale (PT)
+C2325767	Brodmann area 44
+C2326002	Infradentale
+C2326149	Euryon
+C2326308	Brodmann area 33
+C2326458	Lamina V of gray matter of spinal cord
+C2326470	mesocortex
+C2326641	Gnathion
+C2326687	Zygomaxillare
+C2326706	Brodmann area 20
+C2326799	Condylion laterale
+C2326929	Brodmann area 35
+C2327180	Parasubiculum
+C2327335	Iliac spine
+C2327534	Temporal occipital fusiform cortex (TOF)
+C2327670	Frontomalare temporale
+C2327741	Brodmann area 10
+C2327852	Brodmann area 34
+C2328206	Mentale
+C2328243	area 14 of Brodmann
+C2328516	Brodmann area 21
+C2328538	Brodmann area 41
+C2328710	Brodmann area 45
+C2328730	Coronale
+C2328758	Brodmann area 11
+C2328863	Maxillofrontale
+C2328985	periventricular zone of the hypothalamus
+C2329211	Brodmann area 52
+C2329364	Myocardium proper
+C2329816	Alveolare
+C2329912	Temporal frontal cortex, posterior division (TFp)
+C2329919	Temporal frontal cortex, anterior division (TFa)
+C2330060	Brodmann area 40
+C2330062	Structure of middle region of prostate
+C2330136	Cranial apex
+C2330159	Auriculare
+C2330249	lateral zone of the hypothalamus
+C2330299	Stephanion
+C2330312	Brodmann area 47
+C2330366	Inferior temporal gyrus, anterior division (T3a)
+C2330774	area 16 of Brodmann
+C2330783	Ectoconchion
+C2330882	Brodmann area 48
+C2331062	Orbitofrontal cortex
+C2331086	Brodmann area 36
+C2331343	Allocortex
+C2331421	Supramarginal gyrus, posterior division (SGp)
+C2331568	Brodmann area 37
+C2331778	Hormion
+C2331826	Brodmann area 46
+C2331841	Brodmann area 5
+C2332269	Frontal operculum cortex
+C2333081	Middle temporal gyrus, anterior division (T2a)
+C2333248	Integument of back
+C2333271	Cardinal segment of brain
+C2333272	Nasospinale
+C2333429	Lacrimale
+C2333514	Coronion
+C2333540	Parahippocampal gyrus, anterior division (PHa)
+C2333746	Orale
+C2334205	Alveolon
+C2334367	Brodmann area 24
+C2334445	Brodmann area 42
+C2334552	Base of midbrain peduncle
+C2334731	Pogonion
+C2334963	Renal subcortex
+C2335244	Dacryon
+C2335296	Brodmann area 29
+C2335407	Superior temporal gyrus, anterior division (T1a)
+C2335547	Myocardial zone 18
+C2335700	Mastoidale
+C2336068	area 17 of Brodmann (guenon)
+C2336169	Brodmann area 25
+C2336225	Brodmann area 9
+C2336383	Frontotemporale
+C2336698	Brodmann area 19
+C2336719	Brodmann area 39
+C2336763	Cephalometric orbitale point
+C2336809	Brodmann area 12
+C2336971	Parahippocampal gyrus, posterior division (PHp)
+C2337731	Brodmann area 38
+C2337740	Brodmann area 18
+C2337931	paleocortex
+C2338258	Cranial incision point
+C2338299	Surface of base of heart
+C2338459	Synovial fold
+C2338571	Brodmann area 23
+C2338617	Brodmann area 7
+C2339221	Myocardium of apical zone of left ventricle
+C2339454	Prosthion
+C2340189	Condylion mediale
+C2340252	Superior temporal gyrus, posterior division (T1p)
+C2340365	Segment of neuraxis
+C2346436	Zygion
+C2349196	Integument of head
+C2349197	Integument of neck
+C2349198	Integument of trunk
+C2349199	Integument of abdomen
+C2349948	Lingual - Oral site descriptor
+C2362596	Left pterion
+C2362926	Metopion - anatomical point
+C2362932	Obelion
+C2363137	Inguinal fossa
+C2607988	Region of trunk
+C2830016	Anterior hypothalamic region
+C2937247	Osteochondral
+C2937357	Entire proximal epiphysis of radius
+C2939142	Lower back (surface region)
+C2949870	Medial rostrotemporal auditory cortex
+C2949944	Anterior segment of parahippocampal gyrus
+C2950656	Caudal auditory cortex
+C2950793	Posterolateral auditory cortex
+C2951520	Rostromedial auditory cortex
+C2951725	Lateral rostrotemporal auditory cortex
+C2952139	Caudomedial auditory cortex
+C2953923	Rostrotemporal auditory area
+C2987514	Anatomical base
+C3273110	Intracutaneous
+C3282905	Intraocular
+C3282906	Intrapleural
+C3282907	Nasogastric
+C3495332	trigeminal tubercle
+C3495391	area 8B of Walker
+C3495411	Orbital cortex
+C3495441	primary motor cortex
+C3495481	area 9 of Vogts
+C3495491	area 9 of Walker
+C3495497	area 9a of Vogts
+C3495548	anterior cingulate cortex, dorsal part
+C3495956	area 25 of Walker
+C3495964	area LC of Bonin
+C3495967	area 23 of Vogt (macaque)
+C3495968	area 23 of Mauss
+C3496004	area PB of Bonin
+C3496040	cingulate region
+C3496042	Area 8 of Mauss
+C3496043	Area 22 of Mauss
+C3496049	Area 21 of Mauss
+C3496050	Area 32 of Mauss
+C3496056	area 5 of Mauss
+C3496057	area 28 of Mauss
+C3496079	area 17 of Mauss
+C3496156	area Ia of Carmichael
+C3496158	area 18 of Mauss
+C3496160	area 7 of Mauss
+C3496161	area 2 of Mauss
+C3496162	area 1 of Mauss
+C3496163	area 3 of Mauss
+C3496164	area 31 of Mauss
+C3496165	area 19 of Mauss
+C3496166	area 13 of Mauss
+C3496167	area 14 of Mauss
+C3496168	area 15 of Mauss
+C3496169	area 24 of Mauss
+C3496170	Area 26 of Mauss
+C3496173	mesial premotor cortex
+C3496175	area 12r of Carmichael
+C3496214	area 2 of Peele
+C3496215	area 20 of Mauss
+C3496230	area 46 of Walker
+C3496231	area 24b of Carmichael
+C3496232	area 24b of Vogt
+C3496235	area 24c of Carmichael
+C3496236	area 24c of Vogt
+C3496256	anterior cingulate area
+C3496260	septal region (Carpenter)
+C3496285	area 27 of Mauss
+C3496296	area proA of Pandya
+C3496321	oropharyngeal neoplasm location (diagnosis)
+C3496342	area 19 of Vogts
+C3496343	area 24a of Vogt
+C3496345	area 3 of Vogts
+C3496347	area 4a of Geyer
+C3496349	area 5 of Vogts
+C3496350	area 5 of Peele
+C3496351	area 7 of Vogts
+C3496352	area 7 of Peele
+C3496356	area 10 of Walker
+C3496358	area 10 of Paxinos
+C3496359	area 10 of Mauss
+C3496364	area 11 of Carmichael
+C3496365	area 11 of Mauss
+C3496366	area 11 of Walker
+C3496368	area 12 of Mauss
+C3496373	area 8 of Walker (macaque)
+C3496404	insular region
+C3496407	lateral orbital area
+C3496438	area 12 of Walker
+C3496439	area 12 of Carmichael (macaque)
+C3496440	area 13 of Walker
+C3496441	area 13 of Carmichael
+C3496442	area 13a of Carmichael
+C3496443	area 14 of Carmichael
+C3496448	area 21 of Vogts
+C3496450	area23a of Vogt (macaque)
+C3496451	area 24 of Carmichael
+C3496452	area 24 of Walker
+C3496453	area 24 of Brodmann-1909
+C3496463	area 33 of Mauss
+C3496465	area 6 of Mauss
+C3496471	area 4 of Vogts
+C3496472	area 8 of Vogts
+C3496484	medial orbital area
+C3496504	area 25 of Carmichael (macaque)
+C3496506	area 32 of Carmichael
+C3496509	hippocampal region
+C3496510	hippocampal region (Brodmann)
+C3496515	area PE of Bonin
+C3496525	area 8a of Brodmann
+C3496564	area 45 of Walker
+C3496565	area 8A of Walker
+C3496576	area Iai of Carmichael
+C3496598	Area PFC of Bonin
+C3496621	area 17 of Swanson
+C3496642	parietal region
+C3497431	area 2 of Vogts
+C3497465	fields of Forel
+C3498164	cortical areas of the Vogts
+C3498170	area FF of Bonin
+C3498923	paralimbic regions
+C3498956	area 23c (macaque)
+C3498957	area 23b (macaque)
+C3498962	retrosplenial area
+C3499152	area Iam (macaque)
+C3499153	area Iapm (macaque)
+C3499191	lateral agranular insular areas
+C3499192	Vogt's cingulate areas
+C3499193	area Ial of Carmichael
+C3499196	area 11m (macaque)
+C3499197	area 11l (macaque)
+C3499201	area 13m (macaque)
+C3499202	area 13l (macaque)
+C3499203	area 13b (macaque)
+C3499204	area 14r (macaque)
+C3499205	area 14c (macaque)
+C3499304	area 29m (macaque)
+C3499305	area 29 (macaque)
+C3499306	area 30 (macaque)
+C3499333	frontopolar area
+C3499348	area 31 (macaque)
+C3540095	supplemental somatosensory areas
+C3641675	Carpometacarpal Joint 1
+C3641676	Carpometacarpal Joint 2
+C3641678	Carpometacarpal Joint 4
+C3665415	Scapular part of pectoral girdle
+C3665421	Structure of subregion of lower limb
+C3665591	Entire lower respiratory tract (body structure)
+C3669046	Middle region of body
+C3669209	Structure of sacrum
+C3714593	area 17 of Brodmann (human)
+C3714598	Metacarpus
+C3853578	area 27 of Brodmann (guenon)
+C3853609	Olfactory areas in a rodent
+C3853641	Visual Cortex - rodent
+C3853660	gustatory cortex (macaque)
+C3853671	Annectant gyrus of macaque
+C3853684	Area 2 of Brodmann of guenon
+C3853801	area 16 of Brodmann (guenon)
+C3853802	area 18 of Brodmann (guenon)
+C3853803	area 19 of Brodmann (guenon)
+C3853804	Area 20 of Brodmann of guenon
+C3853805	area 21 of Brodmann (guenon)
+C3853806	Area 22 of Brodmann of guenon
+C3853807	Area 23 of Brodmann of guenon
+C3853808	area 24 of Brodmann-1905 (guenon)
+C3853809	Area 25 of Brodmann of guenon
+C3853810	area 26 of Brodmann (guenon)
+C3853811	Area 28 of Brodmann of guenon
+C3853812	area 3 of Brodmann (guenon)
+C3853813	Area 32 of Brodmann of guenon
+C3853814	area 4 of Brodmann (guenon)
+C3853815	area 43 of Brodmann (guenon)
+C3853816	area 5 of Brodmann (guenon)
+C3853817	Area 6 of Brodmann of guenon
+C3853818	area 7 of Brodmann (guenon)
+C3853819	area 8 of Brodmann (guenon)
+C3853820	area 8a of Brodmann (guenon)
+C3853821	area 9 of Brodmann (guenon)
+C3853855	area 1 of Brodmann (guenon)
+C3853856	area 13 of Brodmann (guenon)
+C3853857	area 10 of Brodmann (guenon)
+C3853858	area 14 of Brodmann (guenon)
+C3853859	area 11 of Brodmann (guenon)
+C3853860	area 15 of Brodmann (guenon)
+C3853862	area 12 of Brodmann (guenon)
+C3853915	orbital areas (rodent)
+C3887460	Cardiovascular
+C3887515	Genitourinary
+C3887539	Umbilical region
+C3887615	Lumbar spine structure
+C3890032	area 13
+C3890033	area 25
+C4018801	area 47/12
+C4018896	area Ial
+C4018906	Armpit
+C4018907	area Id1
+C4018908	area 10p
+C4018961	area 13l
+C4018962	area 14
+C4018963	area 14r
+C4018964	area 32
+C4018966	area Iai
+C4018967	area Iam
+C4018968	area Iapm
+C4018971	area Id3
+C4018982	area Ia1
+C4018983	Underarm
+C4019029	orbito-insular area
+C4019111	area Ia2
+C4019219	area 11m
+C4019222	area 13b
+C4019224	area 11l
+C4019456	area 11
+C4083258	Region of forearm
+C4084818	Head of deltoid
+C4084819	Head of part of deltoid
+C4084876	area 24a
+C4084877	area 24b
+C4084882	area 24*
+C4084886	area 24c
+C4084953	Cervical region of central canal of spinal cord
+C4085300	area 29
+C4085301	area 30
+C4085302	area 31
+C4085303	area 33*
+C4085304	area 33
+C4085305	area 8
+C4085306	area 9
+C4085307	area 23* - obsolete
+C4085308	area a24
+C4085324	area p24
+C4085345	Condylion superiore
+C4085354	Distal third of diaphysis of humerus
+C4085587	area s32
+C4085591	area 14c
+C4085592	area 23
+C4085593	area 23c
+C4085594	area 25a
+C4085596	area 25p
+C4085599	area 26
+C4085601	area 44
+C4085602	area 45
+C4085603	area 46
+C4085604	area 8A
+C4085605	area 8B
+C4085684	area p32
+C4085890	Dorsal part of oral part of tongue
+C4224388	Medial condylar facet of patella
+C4238496	Lumbar region of central canal of spinal cord
+C4239047	area 32' (human)
+C4240267	Subscapular fossa
+C4240841	Nasal width line
+C4244805	Dorsal region of pharyngeal part of tongue
+C4247017	Mucosa of floor of mouth
+C4249740	Superior zone of ramus of ischium
+C4252534	Mucosa of palate
+C4253025	Labium pudendum

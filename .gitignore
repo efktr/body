@@ -7,3 +7,4 @@ coverage/lcov.info
 .coveralls.yml
 examples-out
 lib/test.html
+private/
