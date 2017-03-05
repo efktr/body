@@ -1,4 +1,3 @@
-"use strict";
 /*
  * efktr/body
  *
@@ -11,9 +10,13 @@
  @class EfktrBody
  */
 
-class EfktrBody {
+import "path";
+import * as bodyImage from "url-loader?mimetype=image/png!../resources/body.png"
+
+console.log(bodyImage);
+
+export class EfktrBody {
     constructor(opts) {
+
     }
 }
-
-module.exports = EfktrBody;
