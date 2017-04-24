@@ -1,33 +1,16 @@
-# efktr/body
+# efktr-body-react
 
-## Getting Started
-[WIP]
+[![Travis][build-badge]][build]
+[![npm package][npm-badge]][npm]
+[![Coveralls][coveralls-badge]][coveralls]
 
-## Documentation
+Describe efktr-body-react here.
 
-Refer to the `/docs` folder
+[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
+[build]: https://travis-ci.org/user/repo
 
-## Contributing
+[npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
+[npm]: https://www.npmjs.org/package/npm-package
 
-All contributions are welcome.
-
-## Support
-
-If you have any problem or suggestion please open an issue [here](https://github.com/efktr/body/issues).
-
-## License 
-This software is licensed under the Apache 2 license, quoted below.
-
-Copyright (c) 2017, Christian Dallago
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License. You may obtain a copy of
-the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations under
-the License.
+[coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
+[coveralls]: https://coveralls.io/github/user/repo
