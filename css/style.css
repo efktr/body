@@ -1,0 +1,9 @@
+.EfktrBodyMap {
+    width: 160px;
+    height: 550px;
+    background: inherit;
+}
+
+.leaflet-control-container{
+    display: none;
+}
