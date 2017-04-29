@@ -50,7 +50,7 @@ export default class EfktrBody extends Component {
     }
 
     render() {
-        const marker = this.state.signal ? <Marker
+        const marker = this.state.signal ? (<Marker
             icon={
                 divIcon({
                         iconSize: [30, 30],
@@ -62,7 +62,7 @@ export default class EfktrBody extends Component {
                 )
             }
             position={this.state.signal}
-        /> : null;
+        />) : null;
 
         return (
             <Map

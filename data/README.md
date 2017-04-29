@@ -5,3 +5,5 @@
 1. Run `grep T029 MRSTY.RRF > T029`
 1. Run `node extractBodyPartsRelationships.js`
 1. Run `node extractDefinitions.js`
+1. On the database containing the UMLS dictionary for side effects: `SELECT JSON_AGG(DISTINCT umls_id) from umls_dictionary;`
+and save output in `targets.json`
