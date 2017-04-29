@@ -8,3 +8,5 @@ coverage/lcov.info
 examples-out
 lib/test.html
 private/
+
+reldump.json
