@@ -210,7 +210,9 @@ class Relationships {
             let current = superset[element];
             let result;
 
-            if(current.STOP){
+            if(current === undefined){
+                return [undefined, []];
+            } else if(current.STOP){
                 return [{
                     level: level,
                     step: step,
@@ -266,19 +268,16 @@ class Relationships {
             }
         };
 
-        return sources.map(e => {
-            let [result] = omniDirectionalSearch(e, []);
+        return sources
+            .map(e => {
+                let [result] = omniDirectionalSearch(e, []);
 
-            if(result !== undefined){
-                result.source = e;
-            }
-            return result;
-        })
+                if(result !== undefined){
+                    result.source = e;
+                }
+                return result;
+            })
             .filter(e => e !== undefined);
-    }
-
-    annotate(targets, properties, set = this.relationships){
-
     }
 }
 

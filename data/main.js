@@ -10,3 +10,10 @@ let r = new Relationships();
 //r.save();
 
 r.load();
+
+const targets = require(path.join(__dirname, './targets.json'));
+const bodyparts = require(path.join(__dirname, './T029Dictionary.json'));
+
+let relations = r.nearest(targets, bodyparts.map(e => e.cui));
+
+fs.writeFileSync(path.join(__dirname,'sideEffectToT029.json'), JSON.stringify(relations));

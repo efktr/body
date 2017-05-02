@@ -17,7 +17,8 @@ export default class EfktrBody extends Component {
     constructor(props){
         super(props);
 
-        this.passElements = props.onBodyPart || function(){};
+        this.onBodyPart = props.onBodyPart || function(){};
+        this.onClick = props.onBodyPart || function(){};
 
         let width = imageSize.width;
         let height = imageSize.height;
@@ -46,7 +47,9 @@ export default class EfktrBody extends Component {
             signal: event.latlng
         });
 
-        this.passElements(['head', 'arm']);
+        // TODO - Implement logic that looks up body parts and returns them to user
+        this.onBodyPart(['head']);
+        this.onClick(event.latlng);
     }
 
     render() {
