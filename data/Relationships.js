@@ -74,8 +74,8 @@ class Relationships {
                         break;
                     default:
                         // FROM ---- TO
-                        to.other.add(from);
-                        from.other.add(to);
+                        to.other.add(x.from);
+                        from.other.add(x.to);
                         break;
                 }
 
