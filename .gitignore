@@ -9,4 +9,10 @@ examples-out
 lib/test.html
 private/
 
+es/
+lib/
+umd/
+
+demo/dist/
+
 reldump.json
