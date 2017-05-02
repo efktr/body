@@ -116,68 +116,165 @@ class Relationships {
             x.other = new Set(x.other);
 
             previous[current] = x;
+
             return previous;
         }, {});
+
         return true;
     }
 
     nearest(sources, targets, set = this.relationships){
         // Make lookup more efficient by annotating targets --> requires more RAM
-        let superset = set.copy();
+
+        let cloneObject = (obj) => {
+            if (obj === null || typeof obj !== 'object') {
+                return obj;
+            }
+
+            // Convert sets to arrays    !!! IMPORTANT !!! (Set uses size, array uses length + array is more useful for lookup, I don't need the Set concept as no inserts!
+            if (obj.constructor === Set){
+                return [...obj];
+            }
+
+            let temp = new obj.constructor(); // give temp the original obj's constructor
+            for (let key in obj) {
+                temp[key] = cloneObject(obj[key]);
+            }
+
+            return temp;
+        };
+
+        let superset = cloneObject(set);
 
         for(let key in superset){
             let match = targets.find(e => e === key);
+
             if(match){
                 superset[key].STOP = true;
             }
         }
 
+        let horizontalSearch = (neighbours, visited, level, step = 0) => {
+            if(neighbours !== undefined && neighbours.length > 0){
+                visited = visited.concat(neighbours);
+                // Assign key-values
+                let candidates = neighbours.map(e => {
+                    return superset[e];
+                });
+
+                let others = candidates.reduce((previous, current) => {
+                    return previous.concat(current.other);
+                }, []);
+
+                let searchSpace = others.map(e => {
+                    return superset[e];
+                });
+
+                let matchIndex = searchSpace.findIndex(e => e.STOP);
+
+                if(matchIndex !== -1){
+                    return [{
+                        level: level,
+                        step: step,
+                        target: others[matchIndex]
+                    }, visited];
+                } else {
+                    let searchSpace = candidates
+                        .reduce((previous, current) => {
+                            return previous.concat(current.neighbours);
+                        }, [])
+                        .filter((candidate => visited.find(e => e === candidate) === undefined));
+
+                    return horizontalSearch(searchSpace, visited, level, ++step);
+                }
+            } else {
+                return [false, visited];
+            }
+        };
+
         // Idea:
         //  0. Look at self: if STOP, return
-        //  1. Look at all others.
+        //  1. Look at all neighbours.
         //      2A. If others have STOP, return
         //      2B. If others have no STOP,
-        //          3. Start from 1 for every neighbour.
-        //      2C. If others is empty, return nothing.
-        //  4. IF no neighbour has STOP,
-        //  5. go one level up/down (all fathers and all children) and do 1.
-        //  6. If still nothing, return nothing.
+        //          3. GOTO 0 for every child
+        //              4. If no result, GOTO 0 for every parent
+        //                  5. If still nothing, return
 
         // Notes: Can be improved using memorization!
 
         // TODO - Highly experimental and in progress
-        return sources.map(element => {
-                let level = 0;
-                let current = superset[element];
+        let omniDirectionalSearch = (element, visited, level=0, step=0, neighbourhood = 2) => {
+            visited.push(element);
 
-                if(current.STOP){
-                    return {
-                        level: level,
-                        results: element
-                    };
+            let current = superset[element];
+            let result;
+
+            if(current.STOP){
+                return [{
+                    level: level,
+                    step: step,
+                    target: element
+                }];
+            } else if(current.neighbours.length > 0) {
+                let [temp, newVisited] = horizontalSearch(current.neighbours, visited, level, ++step);
+
+                visited = newVisited;
+
+                if (temp !== false) {
+                    return [temp];
+                }
+            } else if(Math.abs(level) <= neighbourhood){
+                --level;
+                let narrower = current.children.filter(e => visited.find(el => el === e) === undefined);
+
+                for (let i = 0; i < narrower.length; i++) {
+                    let [temp, newVisited] = omniDirectionalSearch(narrower[i], visited, level, step);
+
+                    visited = visited.concat(newVisited);
+
+                    if (temp !== undefined) {
+                        result = temp;
+                    }
+                }
+
+                if (result !== undefined) {
+                    return [result];
                 } else {
-                    if(current.other.length > 0){
-                        let others = current.other.map(e => {
-                            return superset[e];
-                        });
+                    ++level;
+                    let broader = current.parents.filter(e => visited.find(el => el === e) === undefined);
 
-                        let matchIndex = others.findIndex(e => e.STOP);
-                        if(matchIndex !== -1){
-                            return {
-                                level: level,
-                                results: current.other[matchIndex]
-                            };
-                        } else {
-                            // TODO - Look at all others!, IF the result of that is undefined, go to level -1/+1
-                            return;
+                    for (let i = 0; i < broader.length; i++) {
+
+                        let [temp, newVisited] = omniDirectionalSearch(broader[i], visited, level, step);
+
+                        visited = visited.concat(newVisited);
+
+                        if (temp !== undefined) {
+                            result = temp;
                         }
-                    } else {
-                        return false;
                     }
 
+                    if (result !== undefined) {
+                        return [result];
+                    } else {
+                        return [undefined, []];
+                    }
                 }
+            } else {
+                return [undefined, []];
             }
-        );
+        };
+
+        return sources.map(e => {
+            let [result] = omniDirectionalSearch(e, []);
+
+            if(result !== undefined){
+                result.source = e;
+            }
+            return result;
+        })
+            .filter(e => e !== undefined);
     }
 
     annotate(targets, properties, set = this.relationships){
