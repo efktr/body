@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-import image from '../resources/body.png';
+import frontImage from '../resources/body.png';
+import backImage from '../resources/back.png';
 import { Map, ImageOverlay, Marker, Popup} from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import '../css/style.css';
@@ -12,6 +13,9 @@ const imageSize = {
     height: 2201
 };
 
+const BACK = 'B';
+const FRONT = 'F';
+
 export default class EfktrBody extends Component {
 
     constructor(props){
@@ -19,6 +23,7 @@ export default class EfktrBody extends Component {
 
         this.onBodyPart = props.onBodyPart || function(){};
         this.onClick = props.onBodyPart || function(){};
+        this.side = props.back === true ? BACK : FRONT;
 
         let width = imageSize.width;
         let height = imageSize.height;
@@ -49,7 +54,10 @@ export default class EfktrBody extends Component {
 
         // TODO - Implement logic that looks up body parts and returns them to user
         this.onBodyPart(['head']);
-        this.onClick(event.latlng);
+        this.onClick({
+            latlng: event.latlng,
+            side: this.side
+        });
     }
 
     render() {
@@ -88,7 +96,7 @@ export default class EfktrBody extends Component {
                 ref="map"
             >
                 <ImageOverlay
-                    url={image}
+                    url={this.side === BACK ? backImage : frontImage}
                     bounds={this.state.map.bounds}
                 />
                 {marker}

@@ -17,6 +17,9 @@ let Demo = React.createClass({
                 }
                 }
             />
+            <EfktrBody
+                back={true}
+            />
         </div>
     }
 });
