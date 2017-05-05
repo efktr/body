@@ -204,7 +204,7 @@ class Relationships {
         // Notes: Can be improved using memorization!
 
         // TODO - Highly experimental and in progress
-        let omniDirectionalSearch = (element, visited, level=0, step=0, neighbourhood = 2) => {
+        let omniDirectionalSearch = (element, visited, level=0, step=0, neighbourhood = 1) => {
             visited.push(element);
 
             let current = superset[element];
