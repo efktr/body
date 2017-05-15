@@ -22,7 +22,7 @@ export default class EfktrBody extends Component {
         super(props);
 
         this.onBodyPart = props.onBodyPart || function(){};
-        this.onClick = props.onBodyPart || function(){};
+        this.onClick = props.onClick || function(){};
 
         let width = imageSize.width;
         let height = imageSize.height;
