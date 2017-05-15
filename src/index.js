@@ -23,7 +23,6 @@ export default class EfktrBody extends Component {
 
         this.onBodyPart = props.onBodyPart || function(){};
         this.onClick = props.onBodyPart || function(){};
-        this.side = props.back === true ? BACK : FRONT;
 
         let width = imageSize.width;
         let height = imageSize.height;
@@ -41,10 +40,17 @@ export default class EfktrBody extends Component {
                 height: height,
                 bounds: imageBounds
             },
-            signal: undefined
+            signal: undefined,
+            side: props.back === true ? BACK : FRONT
         };
 
         this.pointClicked = this.pointClicked.bind(this);
+    }
+
+    componentWillReceiveProps(nextProps){
+        this.setState({
+            side: nextProps.back === true ? BACK : FRONT
+        });
     }
 
     pointClicked(event) {
@@ -56,7 +62,7 @@ export default class EfktrBody extends Component {
         this.onBodyPart(['head']);
         this.onClick({
             latlng: event.latlng,
-            side: this.side
+            side: this.state.side
         });
     }
 
@@ -96,7 +102,7 @@ export default class EfktrBody extends Component {
                 ref="map"
             >
                 <ImageOverlay
-                    url={this.side === BACK ? backImage : frontImage}
+                    url={this.state.side === BACK ? backImage : frontImage}
                     bounds={this.state.map.bounds}
                 />
                 {marker}
