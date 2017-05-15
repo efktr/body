@@ -32,6 +32,10 @@ class Demo extends Component {
             />
             <EfktrBody
                 back={!this.state.flip}
+                onClick={function (latlng) {
+                    console.log(latlng);
+                }
+                }
             />
         </div>
     }
